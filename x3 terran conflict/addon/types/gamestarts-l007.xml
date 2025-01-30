@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gamestarts>
+  <!-- Bitmask
+     1 =
+     2 = Terran plot completed
+     4 = Fight Rank 3,333 reached
+     8 = Trade Rank 3,333 reached
+    16 = Fight Rank 100,000 reached
+    32 = Trade Rank 100,000 reached
+    64 = Goner Plot Complete
+   128 = Tormented Teladi Completed
+   256 = HUB plot completed
+   512 = Argon Rank 10,000
+  1024 = Boron Rank 10,000
+  2048 = Split Rank 10,000
+  4096 = Paranid Rank 10,000
+  8192 = Teladi Rank 10,000
+ 16384 = Argon Rank 333
+ 32768 =
+ 65536 =-->
+  
+  <!-- Damyath Ultralight -->
+  <gamestart id="101" name="Damyath Очень легкий" description="Вы новобранец и вас направили на службу, в отдаленный уголок галактики, для помощи в предстоящих конфликтах." difficulty="M5" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="19"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_P_M5_1" comment="Discoverer Hauler"/>
+  </gamestart>
+
+  <!-- Damyath Light -->
+  <gamestart id="102" name="Damyath Легкий" description="Вы новобранец и вас направили на службу, в отдаленный уголок галактики, для помощи в предстоящих конфликтах." difficulty="M4" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="26"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_T_M4_2"/>
+  </gamestart>
+
+  <!-- Damyath Medium -->
+  <gamestart id="103" name="Damyath Средний" description="Вы новобранец и вас направили на службу, в отдаленный уголок галактики, для помощи в предстоящих конфликтах." difficulty="M4 + 4 x M5" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="41"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_P_M4_2"/>
+  </gamestart>
+
+  <!-- Damyath Advanced -->
+  <gamestart id="104" name="Damyath Расширенный" description="Вы новобранец и вас направили на службу, в отдаленный уголок галактики, для помощи в предстоящих конфликтах." difficulty="M3 + 6 x M5" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="52"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_S_M3_ADV"/>
+  </gamestart>
+
+  <!-- Damyath Trader -->
+  <gamestart id="105" name="Damyath Торговец" description="Вы новобранец и вас направили на службу, в отдаленный уголок галактики, для помощи в предстоящих конфликтах." difficulty="TS + 3 x M5" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="64"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_S_TS_2" comment="Caiman Advanced"/>
+  </gamestart>
+
+
+  <!-- Damyath Import -->
+  <gamestart id="106" name="Damyath Импорт" description="Импорт ранее экспортированной игры Вселенной Litcube." difficulty="-Нет-" image="start88" plot="0">
+    <player name="Litcube" species="{1900,2401}" gender="{1900,1304}" age="1"/>
+    <!-- Argon Prime -->
+    <sector x="1" y="3"/>
+    <ship typename="SS_SH_A_M5"/>
+  </gamestart>
+
+  <gamestart id="142" name="Корсары Алаанква" description="Высокопоставленный Гонерский чиновник задолжал вам крупную сумму денег. Вы согласились, в счет долга, забрать старенький Осиас с небольшим флотом поддержки." difficulty="TL" image="startPirate" plot="0">
+    <player name="Alaankwa Corsairs" species="Independent" gender="Terran" age="Unique" />
+    <sector x="17" y="14" />
+    <ship typename="SS_SH_G_TL" comment="Ozias" />
+  </gamestart>
+
+   <gamestart id="143" name="Корпорация Алаанква" description="Вы - генеральный директор Корпорации Алаанква, пытающийся выжить в суровой реальности галактической торговли. Компания Phanon будет противодейсвтовать вам на каждом шагу." difficulty="Флот" image="startPirate" plot="0">
+     <player name="Alaankwa Corporation" species="Independent" gender="Terran" age="Unique" />
+     <sector x="17" y="15" />
+     <ship typename="SS_SH_S_M6_APPALLOX" comment="Mothership" />
+  </gamestart>
+
+</gamestarts>
