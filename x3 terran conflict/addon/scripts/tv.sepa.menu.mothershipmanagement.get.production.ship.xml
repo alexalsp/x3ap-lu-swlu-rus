@@ -166,7 +166,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -174,7 +174,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (Template: '</text>
+			<text>' (Шаблон: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -196,7 +196,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -234,7 +234,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Looping project: '</text>
+			<text>'Цикл проекта: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -242,7 +242,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (Template: '</text>
+			<text>' (Шаблон: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -264,7 +264,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Looping project: '</text>
+			<text>'Цикл проекта: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -294,7 +294,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -314,7 +314,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (Template: '</text>
+			<text>' (Шаблон: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -332,7 +332,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -390,7 +390,7 @@
 			<var>101</var>
 			<text>,</text>
 			<text> </text>
-			<text>' STALLED'</text>
+			<text>' ОСТАНОВЛЕН'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -582,7 +582,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Project size: '</text>
+			<text>'Размер проекта: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -613,7 +613,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Progress: '</text>
+			<text>'Процесс строительства: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -779,7 +779,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -791,7 +791,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' minute'</text>
+			<text>' мин.'</text>
 		</line>
 		<line linenr="068" indent="&#160;">
 			<text>else</text>
@@ -809,7 +809,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -821,7 +821,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' minutes'</text>
+			<text>' мин.'</text>
 		</line>
 		<line linenr="070" indent="&#160;">
 			<text>else</text>
@@ -839,7 +839,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: few seconds'</text>
+			<text>'Времени осталось: несколько секунд'</text>
 		</line>
 		<line linenr="072" indent="&#160;">
 			<text>else</text>
@@ -849,7 +849,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -857,7 +857,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' seconds'</text>
+			<text>' сек.'</text>
 		</line>
 		<line linenr="074" indent="&#160;">
 			<text>end</text>
@@ -915,7 +915,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Cancel'</text>
+			<text>'Отменить'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1040,7 +1040,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'None'</text>
+			<text>'Пусто'</text>
 		</line>
 		<line linenr="093" indent="&#160;">
 			<var>$index</var>
@@ -1219,7 +1219,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Template'</text>
+			<text>'Шаблон'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1278,7 +1278,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Mothership'</text>
+			<text>'Этот материнский корабль'</text>
 		</line>
 		<line linenr="116" indent="&#160;">
 			<var>$t</var>
@@ -1298,7 +1298,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Assign home &amp; send'</text>
+			<text>'Задать базу приписки и отправить'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1597,7 +1597,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1640,7 +1640,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'BP %'</text>
+			<text>'Чертеж %'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1978,7 +1978,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'All'</text>
+			<text>'Все'</text>
 		</line>
 		<line linenr="159" indent="&#160;">
 			<text>append</text>
@@ -2144,7 +2144,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Class filter'</text>
+			<text>'Фильтровать по классу'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -2335,7 +2335,7 @@
 			<text> </text>
 			<text>!=</text>
 			<text> </text>
-			<text>'All'</text>
+			<text>'Все'</text>
 			<text> </text>
 			<text>AND</text>
 			<text> </text>
@@ -3637,7 +3637,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No blueprint found'</text>
+			<text>'Чертёж не найден'</text>
 		</line>
 		<line linenr="289" indent="&#160;">
 			<text>end</text>
@@ -4889,13 +4889,13 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (Template: " />
+					<sval type="string" val=" (Шаблон: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -4932,7 +4932,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
@@ -4987,13 +4987,13 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Looping project: " />
+					<sval type="string" val="Цикл проекта: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (Template: " />
+					<sval type="string" val=" (Шаблон: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -5030,7 +5030,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Looping project: " />
+					<sval type="string" val="Цикл проекта: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
@@ -5070,7 +5070,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="15" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
@@ -5088,7 +5088,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (Template: " />
+					<sval type="string" val=" (Шаблон: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -5125,7 +5125,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
@@ -5169,7 +5169,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="101" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" STALLED" />
+					<sval type="string" val=" ОСТАНОВЛЕН" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -5324,7 +5324,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Project size: " />
+					<sval type="string" val="Размер проекта: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="15" />
 					<sval type="int" val="15" />
@@ -5346,7 +5346,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Progress: " />
+					<sval type="string" val="Процесс строительства: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="11" />
 					<sval type="int" val="15" />
@@ -5505,7 +5505,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="21" />
 					<sval type="int" val="4" />
@@ -5515,7 +5515,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" minute" />
+					<sval type="string" val=" мин." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -5551,7 +5551,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="21" />
 					<sval type="int" val="4" />
@@ -5561,7 +5561,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" minutes" />
+					<sval type="string" val=" мин." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -5597,7 +5597,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: few seconds" />
+					<sval type="string" val="Времени осталось: несколько секунд" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -5610,13 +5610,13 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="21" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" seconds" />
+					<sval type="string" val=" сек." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -5643,7 +5643,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cancel" />
+					<sval type="string" val="Отменить" />
 					<sval type="int" val="5" />
 					<sval type="string" val="abort" />
 				</sval>
@@ -5723,7 +5723,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="None" />
+					<sval type="string" val="Пусто" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="131" />
@@ -5861,7 +5861,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template" />
+					<sval type="string" val="Шаблон" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="26" />
 					<sval type="int" val="131074" />
@@ -5888,7 +5888,7 @@
 					<sval type="int" val="29" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Mothership" />
+					<sval type="string" val="Этот материнский корабль" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -5896,7 +5896,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Assign home &amp; send" />
+					<sval type="string" val="Задать базу приписки и отправить" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="29" />
 				</sval>
@@ -6074,7 +6074,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -6088,7 +6088,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="BP %" />
+					<sval type="string" val="Чертеж %" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -6227,7 +6227,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="All" />
+					<sval type="string" val="Все" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
@@ -6323,7 +6323,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Class filter" />
+					<sval type="string" val="Фильтровать по классу" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="43" />
 					<sval type="int" val="131074" />
@@ -6433,7 +6433,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="51" />
 					<sval type="int" val="5" />
-					<sval type="string" val="All" />
+					<sval type="string" val="Все" />
 					<sval type="int" val="15" />
 					<sval type="int" val="1" />
 					<sval type="int" val="131074" />
@@ -7296,7 +7296,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No blueprint found" />
+					<sval type="string" val="Чертёж не найден" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="103" />

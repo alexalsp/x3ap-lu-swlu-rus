@@ -94,7 +94,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Read Jobs'</text>
+			<text>'Читать задачи'</text>
 		</line>
 		<line linenr="009" indent="">
 			<var>$array</var>
@@ -104,7 +104,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Update Job'</text>
+			<text>'Обновить задачу'</text>
 		</line>
 		<line linenr="010" indent="&#160;">
 			<text>add</text>
@@ -123,7 +123,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Read Jobs / Update Job'</text>
+			<text>'Чтение задач / Обновление задач'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -169,7 +169,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Read Jobs'</text>
+			<text>'Читать задачи'</text>
 		</line>
 		<line linenr="014" indent="">
 			<var>$array</var>
@@ -179,7 +179,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Add Job'</text>
+			<text>'Добавить задачу'</text>
 		</line>
 		<line linenr="015" indent="&#160;">
 			<text>add</text>
@@ -198,7 +198,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Read Jobs / Add Job'</text>
+			<text>'Чтение задач / Добавление задач'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -296,7 +296,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Priority'</text>
+			<text>'Приоритет'</text>
 		</line>
 		<line linenr="027" indent="&#160;">
 			<var>$array</var>
@@ -306,7 +306,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ware'</text>
+			<text>'Товар'</text>
 		</line>
 		<line linenr="028" indent="&#160;">
 			<text>add</text>
@@ -325,7 +325,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Sort by'</text>
+			<text>'Сортировать по'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -379,7 +379,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Agents only supply the stations you own. They are synchronized with Traders and other Agents.'</text>
+			<text>'Агенты обслуживают ваши станции. Они согласовывают свои действия с Торговцами и другими Агентами.'</text>
 		</line>
 		<line linenr="032" indent="&#160;">
 			<text>add</text>
@@ -779,7 +779,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Task'</text>
+			<text>'Задача'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -822,7 +822,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ware'</text>
+			<text>'Товар'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -865,7 +865,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'# Wares / Stock'</text>
+			<text>'# Товары / Склад'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -908,7 +908,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Target'</text>
+			<text>'Цель'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -951,7 +951,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Cargo Load'</text>
+			<text>'Погрузка'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -994,7 +994,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Wait Cargo'</text>
+			<text>'Ждёт Груз'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1037,7 +1037,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'On-Job'</text>
+			<text>'Занят'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1080,7 +1080,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Prio.'</text>
+			<text>'Приор.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1123,7 +1123,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ignore'</text>
+			<text>'Игнор'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1763,7 +1763,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Local'</text>
+			<text>'Местный'</text>
 		</line>
 		<line linenr="132" indent="&#160;&#160;">
 			<var>$tradePrice</var>
@@ -2197,7 +2197,7 @@
 			<var>109</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -2286,7 +2286,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2496,7 +2496,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Reachable Factories'</text>
+			<text>'Доступные станции'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2596,7 +2596,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Max.'</text>
+			<text>'Макс.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2647,7 +2647,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2693,7 +2693,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2830,7 +2830,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2876,7 +2876,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2963,7 +2963,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Presets'</text>
+			<text>'Предустановки'</text>
 		</line>
 		<line linenr="208" indent="&#160;">
 			<text>do</text>
@@ -2996,7 +2996,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Save these jobs in a new preset'</text>
+			<text>'Сохранить эти задачи, как новый шаблон'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -3095,7 +3095,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Preset selection'</text>
+			<text>'Выбор предустановок'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -3136,7 +3136,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Load preset'</text>
+			<text>'Загрузить предустановку'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -3164,7 +3164,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Append preset'</text>
+			<text>'Применить предустановку'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -3192,7 +3192,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Delete preset'</text>
+			<text>'Удалить предустановку'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -3235,7 +3235,7 @@
 			<var>101</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Remove all jobs'</text>
+			<text>'Удалить все задачи'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -3323,7 +3323,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'New Job'</text>
+			<text>'Новая задача'</text>
 		</line>
 		<line linenr="231" indent="&#160;&#160;" />
 		<line linenr="232" indent="&#160;">
@@ -3398,7 +3398,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 		</line>
 		<line linenr="238" indent="&#160;&#160;">
 			<var>$array</var>
@@ -3408,7 +3408,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 		</line>
 		<line linenr="239" indent="&#160;">
 			<var>$operation</var>
@@ -3456,7 +3456,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Task'</text>
+			<text>'Задача'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -3500,7 +3500,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Ware'</text>
+			<text>'Товар'</text>
 		</line>
 		<line linenr="246" indent="&#160;&#160;">
 			<var>$current</var>
@@ -3533,7 +3533,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Select a ware'</text>
+			<text>'Выбор товара'</text>
 		</line>
 		<line linenr="249" indent="&#160;">
 			<text>add</text>
@@ -3575,7 +3575,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 		</line>
 		<line linenr="254" indent="&#160;&#160;">
 			<text>add</text>
@@ -3595,14 +3595,14 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Maximum Wares'</text>
+			<text>'Максимум товаров'</text>
 		</line>
 		<line linenr="255" indent="&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Stock to import'</text>
+			<text>'Запасы на импорт'</text>
 		</line>
 		<line linenr="256" indent="&#160;&#160;">
 			<text>else</text>
@@ -3613,7 +3613,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 		</line>
 		<line linenr="257" indent="&#160;">
 			<text>add</text>
@@ -3633,14 +3633,14 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Minimum Wares'</text>
+			<text>'Минимум товаров'</text>
 		</line>
 		<line linenr="258" indent="&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Minimum stock to start exporting'</text>
+			<text>'Мин. запас на складе для начала сбыта'</text>
 		</line>
 		<line linenr="259" indent="&#160;">
 			<text>end</text>
@@ -3772,7 +3772,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Cr.)'</text>
+			<text>' кр.)'</text>
 		</line>
 		<line linenr="269" indent="&#160;">
 			<var>$t</var>
@@ -3913,7 +3913,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 		</line>
 		<line linenr="278" indent="&#160;&#160;" interruptable="@">
 			<var>$t</var>
@@ -3933,7 +3933,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will start importing when the stock is less than this value.'</text>
+			<text>'Если запасы ниже этого предела, агенты начнут импортировать товар.'</text>
 		</line>
 		<line linenr="279" indent="&#160;">
 			<text>add</text>
@@ -3963,7 +3963,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 		</line>
 		<line linenr="281" indent="&#160;&#160;" interruptable="@">
 			<var>$t</var>
@@ -3983,7 +3983,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will start exporting when the stock is greater than or equal to this value.'</text>
+			<text>'Агенты экспортируют товары, когда запасы равны или превышают установленное значение.'</text>
 		</line>
 		<line linenr="282" indent="&#160;&#160;">
 			<text>add</text>
@@ -4030,7 +4030,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Cargo Load'</text>
+			<text>'Погрузка'</text>
 		</line>
 		<line linenr="288" indent="&#160;&#160;" />
 		<line linenr="289" indent="&#160;">
@@ -4104,7 +4104,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Load maximum cargo amount (click to change)'</text>
+			<text>'Загрузить максимальное количество груза (кликните здесь для смены меню)'</text>
 		</line>
 		<line linenr="296" indent="&#160;&#160;">
 			<text>else</text>
@@ -4114,7 +4114,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Load custom amount (click to change)'</text>
+			<text>'Настраиваемая загрузка (кликните здесь для смены меню)'</text>
 		</line>
 		<line linenr="298" indent="&#160;">
 			<var>$qty.s</var>
@@ -4210,7 +4210,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Cr.)'</text>
+			<text>' кр.)'</text>
 		</line>
 		<line linenr="304" indent="&#160;">
 			<var>$qty.s</var>
@@ -4324,7 +4324,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will load the maximum amount that can fit inside the station that is importing the ware.'</text>
+			<text>'Агенты заполнят по максимуму внутренний склад импортирующей станции.'</text>
 		</line>
 		<line linenr="310" indent="&#160;&#160;">
 			<text>add</text>
@@ -4430,7 +4430,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will load this amount, or the maximum that can fit inside their cargo bay if it's too high.'</text>
+			<text>'Агенты загрузят заданное количество товара или полный трюм если товара много.'</text>
 		</line>
 		<line linenr="314" indent="&#160;">
 			<text>add</text>
@@ -4477,7 +4477,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="319" indent="&#160;">
 			<var>$values</var>
@@ -4487,7 +4487,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 		</line>
 		<line linenr="320" indent="&#160;&#160;">
 			<var>$default</var>
@@ -4539,7 +4539,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Wait for full cargo load'</text>
+			<text>'Ожидать полную загрузку'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -4572,7 +4572,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 		</line>
 		<line linenr="328" indent="&#160;">
 			<text>add</text>
@@ -4592,14 +4592,14 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Source'</text>
+			<text>'Источник'</text>
 		</line>
 		<line linenr="329" indent="&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Source to import from'</text>
+			<text>'Источник получения'</text>
 		</line>
 		<line linenr="330" indent="&#160;">
 			<text>else</text>
@@ -4610,7 +4610,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 		</line>
 		<line linenr="331" indent="&#160;&#160;">
 			<text>add</text>
@@ -4630,14 +4630,14 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Destination'</text>
+			<text>'Получатель'</text>
 		</line>
 		<line linenr="332" indent="&#160;&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Destination to export to'</text>
+			<text>'Адрес получателя'</text>
 		</line>
 		<line linenr="333" indent="&#160;&#160;">
 			<text>end</text>
@@ -4667,7 +4667,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Factories In Sector...'</text>
+			<text>'Заводы в секторе...'</text>
 		</line>
 		<line linenr="337" indent="&#160;&#160;&#160;">
 			<var>$targets</var>
@@ -4677,7 +4677,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Outpost...'</text>
+			<text>'Форпост...'</text>
 		</line>
 		<line linenr="338" indent="&#160;&#160;">
 			<var>$targets</var>
@@ -4687,7 +4687,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Reachable Factories'</text>
+			<text>'Доступные станции'</text>
 		</line>
 		<line linenr="339" indent="&#160;&#160;&#160;">
 			<var>$target</var>
@@ -4820,7 +4820,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Agents respect the maximum sector distance setting of this Outpost, but cannot exceed 8 jumps.'</text>
+			<text>'Агенты учитывают настройки максимального секторного расстояния для данного Форпоста, но не более 8-ми прыжков.'</text>
 		</line>
 		<line linenr="347" indent="&#160;&#160;&#160;">
 			<text>add</text>
@@ -4859,7 +4859,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Agents never trade with other factions.'</text>
+			<text>'Запрет агентам торговать с другими фракциями.'</text>
 		</line>
 		<line linenr="349" indent="&#160;&#160;">
 			<text>add</text>
@@ -4981,7 +4981,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No sectors owned'</text>
+			<text>'У вас нет секторов'</text>
 		</line>
 		<line linenr="360" indent="&#160;&#160;">
 			<text>else</text>
@@ -5032,7 +5032,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Local ('</text>
+			<text>'Местный ('</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -5293,7 +5293,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Reminder: each factory has its own import-export thresholds that the Agents will always respect.'</text>
+			<text>'Примечание: у каждой фабрики есть свои пороговые значения для импорта и экспорта, которые Агенты всегда будут соблюдать.'</text>
 		</line>
 		<line linenr="389" indent="&#160;&#160;">
 			<text>add</text>
@@ -5516,7 +5516,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No other Outpost found'</text>
+			<text>'Других Форпостов не обнаружено'</text>
 		</line>
 		<line linenr="407" indent="&#160;&#160;">
 			<var>$XS.Iterator4</var>
@@ -5768,7 +5768,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Import'</text>
+			<text>'Получить'</text>
 		</line>
 		<line linenr="426" indent="&#160;">
 			<var>$t</var>
@@ -5795,7 +5795,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will import only if the stock of the targeted Outpost is greater than this value.'</text>
+			<text>'Агенты будут импортировать товар если запасы целевого Форпоста превышают это значение.'</text>
 		</line>
 		<line linenr="428" indent="&#160;">
 			<text>do</text>
@@ -5824,7 +5824,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Export'</text>
+			<text>'Раздать'</text>
 		</line>
 		<line linenr="431" indent="&#160;">
 			<var>$t</var>
@@ -5851,7 +5851,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'The Agents will export only if the stock of the targeted Outpost is less than this value.'</text>
+			<text>'Агенты экспортируют товар если запас целевого Форпоста меньше этого значения.'</text>
 		</line>
 		<line linenr="433" indent="&#160;&#160;">
 			<text>do</text>
@@ -6036,7 +6036,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Other options'</text>
+			<text>'Другие настройки'</text>
 		</line>
 		<line linenr="446" indent="&#160;">
 			<comment>* ---</comment>
@@ -6177,7 +6177,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Maximum ships on this job'</text>
+			<text>'Выделить кораблей для текущей задачи'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -6340,7 +6340,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Job priority'</text>
+			<text>'Приоритет задачи'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -6392,7 +6392,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="486" indent="">
 			<var>$values</var>
@@ -6402,7 +6402,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 		</line>
 		<line linenr="487" indent="">
 			<var>$default</var>
@@ -6454,7 +6454,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Ignore this job'</text>
+			<text>'Игнорировать эту задачу'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -6539,7 +6539,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Edit'</text>
+			<text>'Изменить'</text>
 		</line>
 		<line linenr="510" indent="">
 			<text>add</text>
@@ -6561,7 +6561,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Update this job'</text>
+			<text>'Обновить задачу'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -6589,7 +6589,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Delete this job'</text>
+			<text>'Удалить задачу'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -6617,7 +6617,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Back to Directory'</text>
+			<text>'Вернуться в каталог'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -6646,7 +6646,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Create'</text>
+			<text>'Создать'</text>
 		</line>
 		<line linenr="515" indent="">
 			<text>add</text>
@@ -6668,7 +6668,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Create this job'</text>
+			<text>'Создать задачу'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -6696,7 +6696,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Back to Directory'</text>
+			<text>'Вернуться в каталог'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -6874,7 +6874,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Read Jobs" />
+					<sval type="string" val="Читать задачи" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -6883,14 +6883,14 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Update Job" />
+					<sval type="string" val="Обновить задачу" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Read Jobs / Update Job" />
+					<sval type="string" val="Чтение задач / Обновление задач" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="131074" />
@@ -6915,7 +6915,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Read Jobs" />
+					<sval type="string" val="Читать задачи" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -6924,14 +6924,14 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Add Job" />
+					<sval type="string" val="Добавить задачу" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Read Jobs / Add Job" />
+					<sval type="string" val="Чтение задач / Добавление задач" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="131074" />
@@ -6999,7 +6999,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Priority" />
+					<sval type="string" val="Приоритет" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -7008,14 +7008,14 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware" />
+					<sval type="string" val="Товар" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sort by" />
+					<sval type="string" val="Сортировать по" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="131074" />
@@ -7036,7 +7036,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Agents only supply the stations you own. They are synchronized with Traders and other Agents." />
+					<sval type="string" val="Агенты обслуживают ваши станции. Они согласовывают свои действия с Торговцами и другими Агентами." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -7298,7 +7298,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Task" />
+					<sval type="string" val="Задача" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7312,7 +7312,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware" />
+					<sval type="string" val="Товар" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7326,7 +7326,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="# Wares / Stock" />
+					<sval type="string" val="# Товары / Склад" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7340,7 +7340,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Target" />
+					<sval type="string" val="Цель" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7354,7 +7354,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cargo Load" />
+					<sval type="string" val="Погрузка" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7368,7 +7368,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Wait Cargo" />
+					<sval type="string" val="Ждать Груз" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7382,7 +7382,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="On-Job" />
+					<sval type="string" val="Занят" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7396,7 +7396,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Prio." />
+					<sval type="string" val="Приор." />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7410,7 +7410,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ignore" />
+					<sval type="string" val="Игнор" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7886,7 +7886,7 @@
 					<sval type="int" val="33" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Local" />
+					<sval type="string" val="Местный" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8159,7 +8159,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="109" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -8208,7 +8208,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8277,7 +8277,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reachable Factories" />
+					<sval type="string" val="Доступные станции" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8318,7 +8318,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Max." />
+					<sval type="string" val="Макс." />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8341,7 +8341,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8359,7 +8359,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8410,7 +8410,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8428,7 +8428,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8454,7 +8454,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Presets" />
+					<sval type="string" val="Предустановки" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -8476,7 +8476,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Save these jobs in a new preset" />
+					<sval type="string" val="Сохранить эти задачи, как новый шаблон" />
 					<sval type="int" val="5" />
 					<sval type="string" val="save preset" />
 				</sval>
@@ -8526,7 +8526,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Preset selection" />
+					<sval type="string" val="Выбор предустановок" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="54" />
 					<sval type="int" val="131074" />
@@ -8539,7 +8539,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Load preset" />
+					<sval type="string" val="Загрузить предустановку" />
 					<sval type="int" val="5" />
 					<sval type="string" val="load preset" />
 				</sval>
@@ -8548,7 +8548,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Append preset" />
+					<sval type="string" val="Применить предустановку" />
 					<sval type="int" val="5" />
 					<sval type="string" val="append preset" />
 				</sval>
@@ -8557,7 +8557,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Delete preset" />
+					<sval type="string" val="Удалить предустановку" />
 					<sval type="int" val="5" />
 					<sval type="string" val="delete preset" />
 				</sval>
@@ -8574,7 +8574,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="101" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Remove all jobs" />
+					<sval type="string" val="Удалить все задачи" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -8632,7 +8632,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="New Job" />
+					<sval type="string" val="Новая задача" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -8669,7 +8669,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -8678,7 +8678,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -8701,7 +8701,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Task" />
+					<sval type="string" val="Задача" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="131074" />
@@ -8714,7 +8714,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware" />
+					<sval type="string" val="Товар" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -8738,7 +8738,7 @@
 					<sval type="int" val="57" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Select a ware" />
+					<sval type="string" val="Выбор товара" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8758,7 +8758,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -8771,14 +8771,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Maximum Wares" />
+					<sval type="string" val="Максимум товаров" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stock to import" />
+					<sval type="string" val="Запасы на импорт" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8793,7 +8793,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -8806,14 +8806,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Minimum Wares" />
+					<sval type="string" val="Минимум товаров" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Minimum stock to start exporting" />
+					<sval type="string" val="Мин. запас на складе для начала сбыта" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8899,7 +8899,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Cr.)" />
+					<sval type="string" val=" кр.)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -8981,7 +8981,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -8997,7 +8997,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will start importing when the stock is less than this value." />
+					<sval type="string" val="Если запасы ниже этого предела, агенты начнут импортировать товар." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9017,7 +9017,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9033,7 +9033,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will start exporting when the stock is greater than or equal to this value." />
+					<sval type="string" val="Агенты экспортируют товары, когда запасы равны или превышают установленное значение." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9047,7 +9047,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cargo Load" />
+					<sval type="string" val="Погрузка" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -9106,7 +9106,7 @@
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Load maximum cargo amount (click to change)" />
+					<sval type="string" val="Загрузить максимальное количество груза (кликните здесь для смены меню)" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -9119,7 +9119,7 @@
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Load custom amount (click to change)" />
+					<sval type="string" val="Настраиваемая загрузка (кликните здесь для смены меню)" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -9179,7 +9179,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Cr.)" />
+					<sval type="string" val=" кр.)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -9243,7 +9243,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will load the maximum amount that can fit inside the station that is importing the ware." />
+					<sval type="string" val="Агенты заполнят по максимуму внутренний склад импортирующей станции." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9285,7 +9285,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will load this amount, or the maximum that can fit inside their cargo bay if it's too high." />
+					<sval type="string" val="Агенты загрузят заданное количество товара или полный трюм если товара много." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9307,7 +9307,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9316,7 +9316,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -9349,7 +9349,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Wait for full cargo load" />
+					<sval type="string" val="Ожидать полную загрузку" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="65" />
 					<sval type="int" val="131074" />
@@ -9364,7 +9364,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9377,14 +9377,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Source" />
+					<sval type="string" val="Источник" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Source to import from" />
+					<sval type="string" val="Источник получения" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -9399,7 +9399,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9412,14 +9412,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Destination" />
+					<sval type="string" val="Получатель" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Destination to export to" />
+					<sval type="string" val="Адрес получателя" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -9436,7 +9436,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Factories In Sector..." />
+					<sval type="string" val="Заводы в секторе..." />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9445,7 +9445,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Outpost..." />
+					<sval type="string" val="Форпост..." />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9454,7 +9454,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reachable Factories" />
+					<sval type="string" val="Доступные станции" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -9531,7 +9531,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Agents respect the maximum sector distance setting of this Outpost, but cannot exceed 8 jumps." />
+					<sval type="string" val="Агенты учитывают настройки максимального секторного расстояния для данного Форпоста, но не более 8-ми прыжков." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9548,7 +9548,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Agents never trade with other factions." />
+					<sval type="string" val="Запрет агентам торговать с другими фракциями." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9622,7 +9622,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No sectors owned" />
+					<sval type="string" val="У вас нет секторов" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="112" />
@@ -9666,7 +9666,7 @@
 					<sval type="int" val="72" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Local (" />
+					<sval type="string" val="Местный (" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
@@ -9850,7 +9850,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reminder: each factory has its own import-export thresholds that the Agents will always respect." />
+					<sval type="string" val="Примечание: у каждой фабрики есть свои пороговые значения для импорта и экспорта, которые Агенты всегда будут соблюдать." />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1556" />
@@ -9956,7 +9956,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No other Outpost found" />
+					<sval type="string" val="Других Форпостов не обнаружено" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="131" />
@@ -10120,7 +10120,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import" />
+					<sval type="string" val="Получить" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -10133,7 +10133,7 @@
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Outpost's minimum stock" />
+					<sval type="string" val="Минимальный запас Форпостов" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10145,7 +10145,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will import only if the stock of the targeted Outpost is greater than this value." />
+					<sval type="string" val="Агенты будут импортировать товар если запасы целевого Форпоста превышают это значение." />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -10182,7 +10182,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export" />
+					<sval type="string" val="Раздать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -10195,7 +10195,7 @@
 					<sval type="int" val="5" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Outpost's maximum stock" />
+					<sval type="string" val="Макстимальный запас Форпостов" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10207,7 +10207,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The Agents will export only if the stock of the targeted Outpost is less than this value." />
+					<sval type="string" val="Агенты экспортируют товар если запас целевого Форпоста меньше этого значения." />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -10298,7 +10298,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Other options" />
+					<sval type="string" val="Другие настройки" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="128" />
@@ -10402,7 +10402,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Maximum ships on this job" />
+					<sval type="string" val="Выделить кораблей для текущей задачи" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="65" />
 					<sval type="int" val="131074" />
@@ -10518,7 +10518,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Job priority" />
+					<sval type="string" val="Приоритет задачи" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="65" />
 					<sval type="int" val="131074" />
@@ -10539,7 +10539,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -10548,7 +10548,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -10581,7 +10581,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ignore this job" />
+					<sval type="string" val="Игнорировать эту задачу" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="65" />
 					<sval type="int" val="131074" />
@@ -10603,14 +10603,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Edit" />
+					<sval type="string" val="Изменить" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1833" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Update this job" />
+					<sval type="string" val="Обновить задачу" />
 					<sval type="int" val="5" />
 					<sval type="string" val="update" />
 				</sval>
@@ -10619,7 +10619,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Delete this job" />
+					<sval type="string" val="Удалить задачу" />
 					<sval type="int" val="5" />
 					<sval type="string" val="delete" />
 				</sval>
@@ -10628,7 +10628,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Back to Directory" />
+					<sval type="string" val="Вернуться в каталог" />
 					<sval type="int" val="5" />
 					<sval type="string" val="back" />
 				</sval>
@@ -10641,14 +10641,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Create" />
+					<sval type="string" val="Создать" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1833" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Create this job" />
+					<sval type="string" val="Создать задачу" />
 					<sval type="int" val="5" />
 					<sval type="string" val="create" />
 				</sval>
@@ -10657,7 +10657,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Back to Directory" />
+					<sval type="string" val="Вернуться в каталог" />
 					<sval type="int" val="5" />
 					<sval type="string" val="back" />
 				</sval>

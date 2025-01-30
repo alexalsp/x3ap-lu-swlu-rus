@@ -788,7 +788,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Unable to perform import.  Your export file is corrupt.  Possible causes: bad ship name colour code.'</text>
+			<text>'Невозможно выполнить импорт. Ваш файл импорта повреждён. Возможные ошибки: не корректная раскраска названий объектов.'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -818,7 +818,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Unable to perform import.  Your export file is version %s, while the Importer is version %s.'</text>
+			<text>'Невозможно выполнить импорт. Ваш файл экспорта имеет версию %s, а поддерживаемая версия %s.'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -4295,7 +4295,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Import: asteroids and debris'</text>
+			<text>'Импорт: обновление астероидов и их обломков'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -7774,7 +7774,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Import: object %s'</text>
+			<text>'Импорт: объект %s'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Object</var>
@@ -9282,7 +9282,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Blue Wing'</text>
+			<text>'Синее звено'</text>
 		</line>
 		<line linenr="1043" indent="&#160;">
 			<var>$Wing</var>
@@ -9309,7 +9309,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Gold Wing'</text>
+			<text>'Золотое звено'</text>
 		</line>
 		<line linenr="1045" indent="&#160;">
 			<var>$Wing</var>
@@ -9336,7 +9336,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Green Wing'</text>
+			<text>'Зеленое звено'</text>
 		</line>
 		<line linenr="1047" indent="&#160;">
 			<var>$Wing</var>
@@ -9363,7 +9363,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Orange Wing'</text>
+			<text>'Оранжевое звено'</text>
 		</line>
 		<line linenr="1049" indent="&#160;">
 			<var>$Wing</var>
@@ -9390,7 +9390,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Purple Wing'</text>
+			<text>'Пурпурное звено'</text>
 		</line>
 		<line linenr="1051" indent="&#160;">
 			<var>$Wing</var>
@@ -9417,7 +9417,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Red Wing'</text>
+			<text>'Красное звено'</text>
 		</line>
 		<line linenr="1053" indent="&#160;">
 			<var>$Wing</var>
@@ -9444,7 +9444,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Silver Wing'</text>
+			<text>'Серебряное звено'</text>
 		</line>
 		<line linenr="1055" indent="&#160;">
 			<var>$Wing</var>
@@ -9471,7 +9471,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'White Wing'</text>
+			<text>'Белое звено'</text>
 		</line>
 		<line linenr="1057" indent="&#160;">
 			<var>$Wing</var>
@@ -14373,7 +14373,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Import fucked up.  &quot;End Object&quot; expected.  Got: %s instead on subindex: %s loops: %s'</text>
+			<text>'Импорт не удался. Ожидание &quot;Конечного объекта&quot;. Имеет: %s в место того, чтобы иметь: %s цикл: %s'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -14460,7 +14460,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Import: object %s'</text>
+			<text>'Импорт: объект %s'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Object</var>
@@ -17084,7 +17084,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Import: Ship %s had stray wares.  Reimbursed %s Cr for %s units of %s'</text>
+			<text>'Импорт: Корабль %s имеет незадействованный товар. Возмещение %s кр. для %s единиц %s'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Object</var>
@@ -18944,7 +18944,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Unable to perform import.  Your export file is corrupt.  Possible causes: bad ship name colour code." />
+					<sval type="string" val="Невозможно выполнить импорт. Ваш файл импорта повреждён. Возможные ошибки: не корректная раскраска названий объектов." />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -18964,7 +18964,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Unable to perform import.  Your export file is version %s, while the Importer is version %s." />
+					<sval type="string" val="Невозможно выполнить импорт. Ваш файл экспорта имеет версию %s, а поддерживаемая версия %s." />
 					<sval type="int" val="131074" />
 					<sval type="int" val="61" />
 					<sval type="int" val="131074" />
@@ -20869,7 +20869,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import: asteroids and debris" />
+					<sval type="string" val="Импорт: обновление астероидов и их обломков" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -22764,7 +22764,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import: object %s" />
+					<sval type="string" val="Импорт: объект %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="110" />
 					<sval type="int" val="131074" />
@@ -23557,7 +23557,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Blue Wing" />
+					<sval type="string" val="Синее звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23578,7 +23578,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Gold Wing" />
+					<sval type="string" val="Золотое звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23599,7 +23599,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Green Wing" />
+					<sval type="string" val="Зеленое звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23620,7 +23620,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Orange Wing" />
+					<sval type="string" val="Оранжевое звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23641,7 +23641,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Purple Wing" />
+					<sval type="string" val="Пурпурное звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23662,7 +23662,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Red Wing" />
+					<sval type="string" val="Красное звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23683,7 +23683,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Silver Wing" />
+					<sval type="string" val="Серебряное звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -23704,7 +23704,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="123" />
 					<sval type="int" val="5" />
-					<sval type="string" val="White Wing" />
+					<sval type="string" val="Белое звено" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -26598,7 +26598,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import fucked up.  &quot;End Object&quot; expected.  Got: %s instead on subindex: %s loops: %s" />
+					<sval type="string" val="Импорт не удался. Ожидание &quot;Конечного объекта&quot;. Имеет: %s в место того, чтобы иметь: %s цикл: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="61" />
 					<sval type="int" val="131074" />
@@ -26645,7 +26645,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="61" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import: object %s" />
+					<sval type="string" val="Импорт: объект %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="110" />
 					<sval type="int" val="0" />
@@ -28261,7 +28261,7 @@
 				<sval type="array" size="13">
 					<sval type="int" val="402" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Import: Ship %s had stray wares.  Reimbursed %s Cr for %s units of %s" />
+					<sval type="string" val="Импорт: Корабль %s имеет незадействованный товар. Возмещение %s кр. для %s единиц %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="110" />
 					<sval type="int" val="131074" />

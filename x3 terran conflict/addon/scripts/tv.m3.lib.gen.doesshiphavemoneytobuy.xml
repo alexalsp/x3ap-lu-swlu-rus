@@ -98,7 +98,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Insufficient money in '</text>
+			<text>'Недостаточно средств у станции '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -106,7 +106,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' for '</text>
+			<text>' для корабля '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -114,7 +114,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' trying to buy '</text>
+			<text>' пытающегося купить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -122,7 +122,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' units of '</text>
+			<text>' единиц товара '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -130,7 +130,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' at '</text>
+			<text>' на станции '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -322,13 +322,13 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Insufficient money in " />
+					<sval type="string" val="Недостаточно средств у станции " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" for " />
+					<sval type="string" val=" для корабля " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -336,7 +336,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" trying to buy " />
+					<sval type="string" val=" пытающегося купить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -344,7 +344,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" units of " />
+					<sval type="string" val=" единиц товара " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -352,7 +352,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" at " />
+					<sval type="string" val=" на станции " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />

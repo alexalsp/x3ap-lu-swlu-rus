@@ -39,7 +39,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Quickshuttle reaper: No shuttle set'</text>
+			<text>'Сборщик: На роль сборщика не назначено кораблей'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -688,7 +688,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Claim %s'</text>
+			<text>'Захватил %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2004,7 +2004,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Sector:'</text>
+			<text>'Сектор:'</text>
 			<text>,</text>
 			<text> </text>
 			<var>[SECTOR]</var>
@@ -2164,7 +2164,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle claimed the following ships:'</text>
+			<text>'Сборщик захватил следующие корабли:'</text>
 			<text>,</text>
 			<text> </text>
 			<text>''</text>
@@ -2213,7 +2213,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle claimed no ships.'</text>
+			<text>'Сборщик ничего не захватил.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>''</text>
@@ -2409,7 +2409,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle: Remote System Control Software not installed.'</text>
+			<text>'Сборщик: ПО Удаленного Управления не установлено'</text>
 			<text>,</text>
 			<text> </text>
 			<text>''</text>
@@ -2554,7 +2554,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle collected the following wares:'</text>
+			<text>'Сборщик собрал следующие товары:'</text>
 			<text>,</text>
 			<text> </text>
 			<text>''</text>
@@ -2603,7 +2603,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle collected nothing.'</text>
+			<text>'Сборщиком ничего не собрано.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>''</text>
@@ -3149,7 +3149,7 @@
 			<text> </text>
 			<text>(</text>
 			<text> </text>
-			<text>'Ship hangar'</text>
+			<text>'Корабельный ангар'</text>
 			<text> </text>
 			<text>)</text>
 		</line>
@@ -4973,7 +4973,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttle reaper: No shuttle set" />
+					<sval type="string" val="Сборщик: На роль сборщика не назначено кораблей" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />
@@ -5351,7 +5351,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Claim %s" />
+					<sval type="string" val="Захватил %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="6" />
 					<sval type="int" val="0" />
@@ -6360,7 +6360,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sector:" />
+					<sval type="string" val="Сектор:" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="0" />
@@ -6467,7 +6467,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle claimed the following ships:" />
+					<sval type="string" val="Сборщик захватил следующие корабли:" />
 					<sval type="int" val="5" />
 					<sval type="string" val="" />
 					<sval type="int" val="0" />
@@ -6510,7 +6510,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle claimed no ships." />
+					<sval type="string" val="Сборщик ничего не захватил." />
 					<sval type="int" val="5" />
 					<sval type="string" val="" />
 					<sval type="int" val="0" />
@@ -6657,7 +6657,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle: Remote System Control Software not installed." />
+					<sval type="string" val="Сборщик: ПО Удаленного Управления не установлено." />
 					<sval type="int" val="5" />
 					<sval type="string" val="" />
 					<sval type="int" val="0" />
@@ -6756,7 +6756,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle collected the following wares:" />
+					<sval type="string" val="Сборщик собрал следующие товары:" />
 					<sval type="int" val="5" />
 					<sval type="string" val="" />
 					<sval type="int" val="0" />
@@ -6799,7 +6799,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle collected nothing." />
+					<sval type="string" val="Сборщиком ничего не собрано." />
 					<sval type="int" val="5" />
 					<sval type="string" val="" />
 					<sval type="int" val="0" />
@@ -7175,7 +7175,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="52" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship hangar" />
+					<sval type="string" val="Корабельный ангар" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />

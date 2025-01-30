@@ -274,7 +274,7 @@
 		<line linenr="027" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Other'</text>
+			<text>'Другой'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -298,36 +298,36 @@
 			<text>arguments</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Class'</text>
+			<text>'Класс'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Race'</text>
+			<text>'Раса'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Price'</text>
+			<text>'Цена'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Speed'</text>
+			<text>'Скорость'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Cargo'</text>
+			<text>'Трюм'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Shield Types'</text>
+			<text>'Тип щитов'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Shield Strength'</text>
+			<text>'Энергия щита'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Generator'</text>
+			<text>'Генератор'</text>
 		</line>
 		<line linenr="030" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Hull'</text>
+			<text>'Корпус'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -338,7 +338,7 @@
 		<line linenr="031" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Laser Strength'</text>
+			<text>'Энергия лазера'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -349,7 +349,7 @@
 		<line linenr="032" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Turrets'</text>
+			<text>'Турели'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -360,7 +360,7 @@
 		<line linenr="033" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Guns'</text>
+			<text>'Орудия'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -371,7 +371,7 @@
 		<line linenr="034" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Marines'</text>
+			<text>'Десантники'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -394,10 +394,10 @@
 			<text> </text>
 			<text>arguments</text>
 			<text>=</text>
-			<text>'Performance'</text>
+			<text>'Характеристики'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Docking'</text>
+			<text>'Стыковка'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -423,10 +423,10 @@
 			<text> </text>
 			<text>arguments</text>
 			<text>=</text>
-			<text>'Ascending'</text>
+			<text>'По возрастанию'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Decending'</text>
+			<text>'По убыванию'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -443,7 +443,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Sold only'</text>
+			<text>'Продающиеся'</text>
 		</line>
 		<line linenr="041" indent="">
 			<text>do</text>
@@ -466,7 +466,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'BP only'</text>
+			<text>'Только чертёж'</text>
 		</line>
 		<line linenr="043" indent="" />
 		<line linenr="044" indent="">
@@ -483,7 +483,7 @@
 			<text> </text>
 			<text>arguments</text>
 			<text>=</text>
-			<text>'All ships'</text>
+			<text>'Все корабли'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$filter.sold</var>
@@ -570,7 +570,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Performance'</text>
+			<text>'Характеристики'</text>
 		</line>
 		<line linenr="062" indent="&#160;">
 			<text>gosub</text>
@@ -587,7 +587,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Docking'</text>
+			<text>'Стыковка'</text>
 		</line>
 		<line linenr="064" indent="&#160;">
 			<text>gosub</text>
@@ -1013,7 +1013,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Class'</text>
+			<text>'Класс'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1078,7 +1078,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Sort by:'</text>
+			<text>'Сортировать по:'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1143,7 +1143,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Order'</text>
+			<text>'Порядок'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1205,7 +1205,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Scope'</text>
+			<text>'Объём'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1267,7 +1267,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Page'</text>
+			<text>'Страница'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1298,7 +1298,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Performance'</text>
+			<text>'Характеристики'</text>
 		</line>
 		<line linenr="143" indent="&#160;&#160;">
 			<comment>* Name</comment>
@@ -1469,7 +1469,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1512,7 +1512,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Class'</text>
+			<text>'Класс'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1555,7 +1555,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Race'</text>
+			<text>'Раса'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1598,7 +1598,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Price'</text>
+			<text>'Цена'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1641,7 +1641,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Speed'</text>
+			<text>'Скорость'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1684,7 +1684,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Cargo'</text>
+			<text>'Трюм'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1727,7 +1727,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shields'</text>
+			<text>'Щиты'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1770,7 +1770,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shield'</text>
+			<text>'Емкость'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1813,7 +1813,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Gen.'</text>
+			<text>'Ген.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1856,7 +1856,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Hull'</text>
+			<text>'Корпус'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1899,7 +1899,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Laser'</text>
+			<text>'Лазер'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1942,7 +1942,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Turrets'</text>
+			<text>'Турели'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1985,7 +1985,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Guns'</text>
+			<text>'Орудия'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2028,7 +2028,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Marine'</text>
+			<text>'Десант'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2059,7 +2059,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Docking'</text>
+			<text>'Стыковка'</text>
 		</line>
 		<line linenr="188" indent="&#160;&#160;" />
 		<line linenr="189" indent="&#160;&#160;">
@@ -2141,7 +2141,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2184,7 +2184,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Class'</text>
+			<text>'Класс'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2227,7 +2227,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Race'</text>
+			<text>'Раса'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2270,7 +2270,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Internal'</text>
+			<text>'Внутренний'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -2313,7 +2313,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'External'</text>
+			<text>'Внешний'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -4681,7 +4681,7 @@
 			<text> </text>
 			<text>!=</text>
 			<text> </text>
-			<text>'Other'</text>
+			<text>'Другой'</text>
 		</line>
 		<line linenr="421" indent="&#160;&#160;">
 			<text>do</text>
@@ -5224,7 +5224,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Other'</text>
+			<text>'Другой'</text>
 		</line>
 		<line linenr="458" indent="&#160;&#160;">
 			<text>do</text>
@@ -5561,7 +5561,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Other'</text>
+			<text>'Другой'</text>
 		</line>
 		<line linenr="505" indent="&#160;">
 			<text>do</text>
@@ -6046,72 +6046,72 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="18" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Other" />
+					<sval type="string" val="Другой" />
 				</sval>
 				<sval type="array" size="20">
 					<sval type="int" val="1829" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Class" />
+					<sval type="string" val="Класс" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Race" />
+					<sval type="string" val="Раса" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Price" />
+					<sval type="string" val="Цена" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Speed" />
+					<sval type="string" val="Скорость" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cargo" />
+					<sval type="string" val="Трюм" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield Types" />
+					<sval type="string" val="Тип щитов" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield Strength" />
+					<sval type="string" val="Энергия щита" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Generator" />
+					<sval type="string" val="Генератор" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hull" />
+					<sval type="string" val="Корпус" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Laser Strength" />
+					<sval type="string" val="Энергия лазера" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Turrets" />
+					<sval type="string" val="Турели" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Guns" />
+					<sval type="string" val="Орудия" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Marines" />
+					<sval type="string" val="Десантники" />
 				</sval>
 				<sval type="array" size="12">
 					<sval type="int" val="1415" />
 					<sval type="int" val="20" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Performance" />
+					<sval type="string" val="Характеристики" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docking" />
+					<sval type="string" val="Стыковка" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -6123,9 +6123,9 @@
 					<sval type="int" val="1415" />
 					<sval type="int" val="21" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ascending" />
+					<sval type="string" val="По возрастанию" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Decending" />
+					<sval type="string" val="По убыванию" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -6138,7 +6138,7 @@
 					<sval type="int" val="22" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sold only" />
+					<sval type="string" val="Продающиеся" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -6153,7 +6153,7 @@
 					<sval type="int" val="22" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="BP only" />
+					<sval type="string" val="Только чертёж" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -6161,7 +6161,7 @@
 					<sval type="int" val="1415" />
 					<sval type="int" val="23" />
 					<sval type="int" val="5" />
-					<sval type="string" val="All ships" />
+					<sval type="string" val="Все корабли" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="0" />
@@ -6217,7 +6217,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="12" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Performance" />
+					<sval type="string" val="Характеристики" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -6240,7 +6240,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="12" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docking" />
+					<sval type="string" val="Стыковка" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -6555,7 +6555,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Class" />
+					<sval type="string" val="Класс" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="18" />
 					<sval type="int" val="131074" />
@@ -6578,7 +6578,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sort by:" />
+					<sval type="string" val="Сортировать по:" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="131074" />
@@ -6601,7 +6601,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Order" />
+					<sval type="string" val="Порядок" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="21" />
 					<sval type="int" val="131074" />
@@ -6624,7 +6624,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Scope" />
+					<sval type="string" val="Объём" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="23" />
 					<sval type="int" val="131074" />
@@ -6647,7 +6647,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Page" />
+					<sval type="string" val="Страница" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="131074" />
@@ -6662,7 +6662,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="12" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Performance" />
+					<sval type="string" val="Характеристики" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -6811,7 +6811,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6825,7 +6825,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Class" />
+					<sval type="string" val="Класс" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6839,7 +6839,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Race" />
+					<sval type="string" val="Раса" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6853,7 +6853,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Price" />
+					<sval type="string" val="Цена" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6867,7 +6867,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Speed" />
+					<sval type="string" val="Скорость" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6881,7 +6881,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cargo" />
+					<sval type="string" val="Трюм" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6895,7 +6895,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shields" />
+					<sval type="string" val="Щиты" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6909,7 +6909,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield" />
+					<sval type="string" val="Емкость" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6923,7 +6923,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Gen." />
+					<sval type="string" val="Ген." />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6937,7 +6937,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hull" />
+					<sval type="string" val="Корпус" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6951,7 +6951,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Laser" />
+					<sval type="string" val="Лазер" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -6965,7 +6965,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Turrets" />
+					<sval type="string" val="Турели" />
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -6979,7 +6979,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Guns" />
+					<sval type="string" val="Орудия" />
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -6993,7 +6993,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Marine" />
+					<sval type="string" val="Десант" />
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -7012,7 +7012,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="12" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docking" />
+					<sval type="string" val="Стыковка" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -7080,7 +7080,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -7094,7 +7094,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Class" />
+					<sval type="string" val="Класс" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -7108,7 +7108,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Race" />
+					<sval type="string" val="Раса" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -7122,7 +7122,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Internal" />
+					<sval type="string" val="Внутренний" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -7136,7 +7136,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="External" />
+					<sval type="string" val="Внешний" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -8619,7 +8619,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Other" />
+					<sval type="string" val="Другой" />
 					<sval type="int" val="15" />
 					<sval type="int" val="1" />
 					<sval type="int" val="15" />
@@ -9420,7 +9420,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Other" />
+					<sval type="string" val="Другой" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9843,7 +9843,7 @@
 					<sval type="int" val="67" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Other" />
+					<sval type="string" val="Другой" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

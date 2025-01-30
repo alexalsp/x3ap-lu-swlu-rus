@@ -260,7 +260,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Entry deleted'</text>
+			<text>'Запись удалена'</text>
 			<text> </text>
 			<text>icon</text>
 			<text>=</text>
@@ -318,7 +318,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Modify an entry'</text>
+			<text>'Изменить запись'</text>
 		</line>
 		<line linenr="042" indent="&#160;&#160;">
 			<text>if</text>
@@ -357,7 +357,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Entry modified'</text>
+			<text>'Запись изменена'</text>
 			<text> </text>
 			<text>icon</text>
 			<text>=</text>
@@ -418,7 +418,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'New entry'</text>
+			<text>'Новая запись'</text>
 		</line>
 		<line linenr="050" indent="&#160;&#160;">
 			<text>if</text>
@@ -458,7 +458,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'New entry added'</text>
+			<text>'Новая запись добавлена'</text>
 			<text> </text>
 			<text>icon</text>
 			<text>=</text>
@@ -537,7 +537,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'This will permanently clear your journal, are you sure?'</text>
+			<text>'Журнал будет очищен полностью и безвозвратно. Вы уверены, что хотите сделать это?'</text>
 		</line>
 		<line linenr="060" indent="&#160;&#160;">
 			<text>if</text>
@@ -671,7 +671,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Entries'</text>
+			<text>'Записи'</text>
 		</line>
 		<line linenr="079" indent="&#160;&#160;" />
 		<line linenr="080" indent="&#160;&#160;&#160;">
@@ -795,7 +795,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'     Modify this entry'</text>
+			<text>'     Изменить запись'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -823,7 +823,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'     Delete this entry'</text>
+			<text>'     Удалить запись'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -912,7 +912,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Options'</text>
+			<text>'Опции'</text>
 		</line>
 		<line linenr="097" indent="" />
 		<line linenr="098" indent="&#160;">
@@ -935,7 +935,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Add a new entry'</text>
+			<text>'Добавить новую запись'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -963,7 +963,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Clear all entries'</text>
+			<text>'Удалить все записи'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1353,7 +1353,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Entry deleted" />
+					<sval type="string" val="Запись удалена" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -1397,7 +1397,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Modify an entry" />
+					<sval type="string" val="Изменить запись" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -1429,7 +1429,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Entry modified" />
+					<sval type="string" val="Запись изменена" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -1473,7 +1473,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val="New entry" />
+					<sval type="string" val="Новая запись" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -1503,7 +1503,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="New entry added" />
+					<sval type="string" val="Новая запись добавлена" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -1575,7 +1575,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="63" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This will permanently clear your journal, are you sure?" />
+					<sval type="string" val="Журнал будет очищен полностью и безвозвратно. Вы уверены, что хотите сделать это?" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -1671,7 +1671,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Entries" />
+					<sval type="string" val="Записи" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="131" />
@@ -1747,7 +1747,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="     Modify this entry" />
+					<sval type="string" val="     Изменить запись" />
 					<sval type="int" val="5" />
 					<sval type="string" val="modify" />
 				</sval>
@@ -1756,7 +1756,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="     Delete this entry" />
+					<sval type="string" val="     Удалить запись" />
 					<sval type="int" val="5" />
 					<sval type="string" val="delete" />
 				</sval>
@@ -1802,14 +1802,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Options" />
+					<sval type="string" val="Опции" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="1833" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Add a new entry" />
+					<sval type="string" val="Добавить новую запись" />
 					<sval type="int" val="5" />
 					<sval type="string" val="new" />
 				</sval>
@@ -1818,7 +1818,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Clear all entries" />
+					<sval type="string" val="Удалить все записи" />
 					<sval type="int" val="5" />
 					<sval type="string" val="clear" />
 				</sval>

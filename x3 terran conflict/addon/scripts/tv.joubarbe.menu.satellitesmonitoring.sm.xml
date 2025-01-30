@@ -750,7 +750,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Enter the number of shown elements per page'</text>
+			<text>'Введите количество отображаемых элементов на странице'</text>
 		</line>
 		<line linenr="090" indent="&#160;">
 			<text>if</text>
@@ -1076,7 +1076,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Jumpdrive not installed'</text>
+			<text>'Прыжковый двигатель не установлен'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -1144,7 +1144,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Not enough Energy Cells ('</text>
+			<text>'Недостаточно батарей ('</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1265,7 +1265,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Options'</text>
+			<text>'Опции'</text>
 		</line>
 		<line linenr="140" indent="&#160;&#160;" />
 		<line linenr="141" indent="&#160;&#160;">
@@ -1424,7 +1424,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Show page: '</text>
+			<text>'Показать страницу: '</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1476,7 +1476,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'View sector'</text>
+			<text>'Посмотреть сектор'</text>
 		</line>
 		<line linenr="161" indent="&#160;">
 			<var>$optionsArray</var>
@@ -1486,7 +1486,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Send the reaper'</text>
+			<text>'Отправить сборщик'</text>
 		</line>
 		<line linenr="162" indent="&#160;&#160;">
 			<var>$optionsArray</var>
@@ -1496,7 +1496,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Jump'</text>
+			<text>'Прыгнуть'</text>
 		</line>
 		<line linenr="163" indent="&#160;&#160;">
 			<text>add</text>
@@ -1515,7 +1515,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Click to: '</text>
+			<text>'Нажмите чтобы: '</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1559,7 +1559,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 		</line>
 		<line linenr="167" indent="&#160;&#160;">
 			<var>$optionsArray</var>
@@ -1569,7 +1569,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="168" indent="&#160;&#160;">
 			<text>add</text>
@@ -1588,7 +1588,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Send the reaper home after collecting: '</text>
+			<text>'Отправить челнок домой после сбора: '</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1761,7 +1761,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Abandoned ships minimum class filter: '</text>
+			<text>'Фильтр: Мин. класс брошенных кораблей: '</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1803,7 +1803,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Number of elements per page: '</text>
+			<text>'Количество элементов на странице: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1870,7 +1870,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Sector'</text>
+			<text>'Сектор'</text>
 		</line>
 		<line linenr="192" indent="&#160;&#160;">
 			<var>$heading</var>
@@ -1890,7 +1890,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Race'</text>
+			<text>'Раса'</text>
 		</line>
 		<line linenr="194" indent="&#160;&#160;">
 			<var>$heading</var>
@@ -1910,7 +1910,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Enemy Ships'</text>
+			<text>'Вражеские корабли'</text>
 		</line>
 		<line linenr="196" indent="&#160;&#160;&#160;">
 			<var>$heading</var>
@@ -1930,7 +1930,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Enemy Stations'</text>
+			<text>'Вражеские станции'</text>
 		</line>
 		<line linenr="198" indent="&#160;">
 			<var>$heading</var>
@@ -1950,7 +1950,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Abandoned Ships'</text>
+			<text>'Брошенные корабли'</text>
 		</line>
 		<line linenr="200" indent="">
 			<var>$heading</var>
@@ -1970,7 +1970,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Wares (Cr)'</text>
+			<text>'Товары (Кр.)'</text>
 		</line>
 		<line linenr="202" indent="">
 			<var>$heading</var>
@@ -1990,7 +1990,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Smugglers'</text>
+			<text>'Контрабандисты'</text>
 		</line>
 		<line linenr="204" indent="&#160;">
 			<var>$heading</var>
@@ -2010,7 +2010,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Jumps'</text>
+			<text>'Прыжков'</text>
 		</line>
 		<line linenr="206" indent="">
 			<text>add</text>
@@ -2164,7 +2164,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No satellites detected'</text>
+			<text>'Спутники не обнаружены'</text>
 		</line>
 		<line linenr="223" indent="&#160;&#160;&#160;">
 			<text>add</text>
@@ -3713,7 +3713,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' mil'</text>
+			<text>' млн.'</text>
 		</line>
 		<line linenr="374" indent="">
 			<text>end</text>
@@ -4607,7 +4607,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Enter the number of shown elements per page" />
+					<sval type="string" val="Введите количество отображаемых элементов на странице" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -4885,7 +4885,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Jumpdrive not installed" />
+					<sval type="string" val="Прыжковый двигатель не установлен" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />
@@ -4938,7 +4938,7 @@
 					<sval type="int" val="33" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Not enough Energy Cells (" />
+					<sval type="string" val="Недостаточно батарей (" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="31" />
 					<sval type="int" val="15" />
@@ -5021,7 +5021,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Options" />
+					<sval type="string" val="Опции" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -5186,7 +5186,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Show page: " />
+					<sval type="string" val="Показать страницу: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="131074" />
@@ -5211,7 +5211,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="View sector" />
+					<sval type="string" val="Посмотреть сектор" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5220,7 +5220,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Send the reaper" />
+					<sval type="string" val="Отправить сборщик" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5229,14 +5229,14 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Jump" />
+					<sval type="string" val="Прыгнуть" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Click to: " />
+					<sval type="string" val="Нажмите чтобы: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="131074" />
@@ -5257,7 +5257,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5266,14 +5266,14 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Send the reaper home after collecting: " />
+					<sval type="string" val="Отправить челнок домой после сбора: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="131074" />
@@ -5400,7 +5400,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Abandoned ships minimum class filter: " />
+					<sval type="string" val="Фильтр: Мин. класс брошенных кораблей " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="131074" />
@@ -5419,7 +5419,7 @@
 					<sval type="int" val="33" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Number of elements per page: " />
+					<sval type="string" val="Количество элементов на странице: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="16" />
 					<sval type="int" val="15" />
@@ -5460,7 +5460,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sector" />
+					<sval type="string" val="Сектор" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5478,7 +5478,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Race" />
+					<sval type="string" val="Раса" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5496,7 +5496,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Enemy Ships" />
+					<sval type="string" val="Вражеские корабли" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5514,7 +5514,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Enemy Stations" />
+					<sval type="string" val="Вражеские Станции" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5532,7 +5532,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Abandoned Ships" />
+					<sval type="string" val="Брошенные корабли" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5550,7 +5550,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Wares (Cr)" />
+					<sval type="string" val="Товары (Кр.)" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5568,7 +5568,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="13" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Smugglers" />
+					<sval type="string" val="Контрабандисты" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -5586,7 +5586,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="15" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Jumps" />
+					<sval type="string" val="Прыжков" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1448" />
@@ -5714,7 +5714,7 @@
 					<sval type="int" val="54" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No satellites detected" />
+					<sval type="string" val="Спутники не обнаружены" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -6878,7 +6878,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" mil" />
+					<sval type="string" val=" млн." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />

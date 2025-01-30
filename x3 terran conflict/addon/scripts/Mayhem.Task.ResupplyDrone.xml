@@ -250,7 +250,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -318,7 +318,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -916,7 +916,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Loading %s from %s'</text>
+			<text>'Загружаю %s от %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1155,7 +1155,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Unloading %s to %s'</text>
+			<text>'Разгружаю %s на %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1344,7 +1344,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1653,7 +1653,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
@@ -1687,7 +1687,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -2081,7 +2081,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Loading %s from %s" />
+					<sval type="string" val="Загружаю %s от %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="131074" />
@@ -2243,7 +2243,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Unloading %s to %s" />
+					<sval type="string" val="Разгружаю %s на %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="131074" />
@@ -2371,7 +2371,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />

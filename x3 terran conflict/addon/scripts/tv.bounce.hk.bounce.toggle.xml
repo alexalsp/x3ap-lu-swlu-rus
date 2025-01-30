@@ -56,7 +56,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Bounce has been disabled.'</text>
+			<text>'Bounce - защита от столкновения отключена.'</text>
 			<text> </text>
 			<text>duration</text>
 			<text>=</text>
@@ -268,7 +268,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Bounce has been enabled.'</text>
+			<text>'Bounce - защита от столкновения включена.'</text>
 			<text> </text>
 			<text>duration</text>
 			<text>=</text>
@@ -330,7 +330,7 @@
 				<sval type="array" size="5">
 					<sval type="int" val="1418" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Bounce has been disabled." />
+					<sval type="string" val="Bounce - защита от столкновения отключена." />
 					<sval type="int" val="4" />
 					<sval type="int" val="4000" />
 				</sval>
@@ -453,7 +453,7 @@
 				<sval type="array" size="5">
 					<sval type="int" val="1418" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Bounce has been enabled." />
+					<sval type="string" val="Bounce - защита от столкновения включена." />
 					<sval type="int" val="4" />
 					<sval type="int" val="4000" />
 				</sval>

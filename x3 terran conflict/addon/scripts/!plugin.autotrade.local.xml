@@ -324,7 +324,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Universe Trader Mk3'</text>
+			<text>'Галаторговец Мк3'</text>
 		</line>
 		<line linenr="062" indent="&#160;">
 			<var>$traderange</var>
@@ -341,7 +341,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Local Trader Mk3'</text>
+			<text>'Секторный Торговец Мк3'</text>
 		</line>
 		<line linenr="065" indent="&#160;">
 			<var>[THIS]</var>
@@ -487,7 +487,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Moving to home sector %s'</text>
+			<text>'Возвращаюсь домой %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2467,7 +2467,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Finding trade opportunity'</text>
+			<text>'Поиск возможной сделки'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2745,7 +2745,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for trade opportunity'</text>
+			<text>'Ожидаю сделку'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -3303,7 +3303,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Buying %s'</text>
+			<text>'Покупаю %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -3461,7 +3461,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Buying %s'</text>
+			<text>'Покупаю %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -3904,7 +3904,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Resting'</text>
+			<text>'Отдыхаю'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4616,7 +4616,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Resting'</text>
+			<text>'Отдыхаю'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4859,7 +4859,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Selling %s'</text>
+			<text>'Продаю %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -5344,7 +5344,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Resting'</text>
+			<text>'Отдыхаю'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -5968,7 +5968,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for delivery %s'</text>
+			<text>'Ожидаю доставку %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -6233,7 +6233,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for delivery %s'</text>
+			<text>'Ожидаю доставку %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -7199,7 +7199,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Universe Trader Mk3" />
+					<sval type="string" val="Галаторговец Мк3" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -7221,7 +7221,7 @@
 					<sval type="int" val="8" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Local Trader Mk3" />
+					<sval type="string" val="Секторный Торговец Мк3" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -7317,7 +7317,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Moving to home sector %s" />
+					<sval type="string" val="Возвращаюсь домой %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -8992,7 +8992,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Finding trade opportunity" />
+					<sval type="string" val="Поиск возможной сделки" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9161,7 +9161,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for trade opportunity" />
+					<sval type="string" val="Ожидаю сделку" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9529,7 +9529,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Buying %s" />
+					<sval type="string" val="Покупаю %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -9617,7 +9617,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Buying %s" />
+					<sval type="string" val="Покупаю %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -9870,7 +9870,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Resting" />
+					<sval type="string" val="Отдыхаю" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -10388,7 +10388,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Resting" />
+					<sval type="string" val="Отдыхаю" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -10519,7 +10519,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Selling %s" />
+					<sval type="string" val="Продаю %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -10836,7 +10836,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Resting" />
+					<sval type="string" val="Отдыхаю" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="38" />
 					<sval type="int" val="0" />
@@ -11324,7 +11324,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for delivery %s" />
+					<sval type="string" val="Ожидаю доставку %s" />
 					<sval type="int" val="9" />
 					<sval type="int" val="1048611" />
 					<sval type="int" val="0" />
@@ -11508,7 +11508,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for delivery %s" />
+					<sval type="string" val="Ожидаю доставку %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="86" />
 					<sval type="int" val="0" />

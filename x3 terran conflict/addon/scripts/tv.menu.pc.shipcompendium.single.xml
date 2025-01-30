@@ -165,7 +165,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Found at Shipyards'</text>
+			<text>'Найден на верфи'</text>
 		</line>
 		<line linenr="014" indent="">
 			<var>$Shipyards</var>
@@ -347,7 +347,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No known shipyards'</text>
+			<text>'Не обнаружен на известных верфях'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -372,7 +372,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Technical Data'</text>
+			<text>'Технические данные'</text>
 		</line>
 		<line linenr="028" indent="" />
 		<line linenr="029" indent="">
@@ -409,7 +409,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s'</text>
+			<text>'%s м/с'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -444,7 +444,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Base speed'</text>
+			<text>'Базовая скорость'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -520,7 +520,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s'</text>
+			<text>'%s м/с'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -555,7 +555,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Upgradeable to'</text>
+			<text>'Модернизируется до'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -636,7 +636,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s²'</text>
+			<text>'%s м/с²'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -671,7 +671,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Acceleratrion'</text>
+			<text>'Ускорение'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -741,7 +741,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s²'</text>
+			<text>'%s м/с²'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -776,7 +776,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Upgradeable to'</text>
+			<text>'Модернизируется до'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -861,7 +861,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s²'</text>
+			<text>'%s м/с²'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -896,7 +896,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Steering'</text>
+			<text>'Рулевое управление'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -976,7 +976,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s m/s²'</text>
+			<text>'%s м/с²'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -1011,7 +1011,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Upgradeable to'</text>
+			<text>'Модернизируется до'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1149,7 +1149,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Max shield'</text>
+			<text>'Максимальный щит'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1221,7 +1221,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s MW'</text>
+			<text>'%s МВт'</text>
 		</line>
 		<line linenr="079" indent="">
 			<var>$Text</var>
@@ -1241,7 +1241,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Shield generator'</text>
+			<text>'Генератор щитов'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1329,7 +1329,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s MJ'</text>
+			<text>'%s МДж'</text>
 		</line>
 		<line linenr="086" indent="">
 			<var>$Text</var>
@@ -1349,7 +1349,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Weapon Energy'</text>
+			<text>'Генератор оружия'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1419,7 +1419,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'%s MW'</text>
+			<text>'%s МВт'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Text</var>
@@ -1454,7 +1454,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Weapon energy reload rate'</text>
+			<text>'Время перезарядки оружейного генератора'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1542,7 +1542,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s units'</text>
+			<text>'%s единиц'</text>
 		</line>
 		<line linenr="099" indent="">
 			<var>$Text</var>
@@ -1562,7 +1562,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Cargo bay'</text>
+			<text>'Грузовой отсек'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1645,7 +1645,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s units'</text>
+			<text>'%s единиц'</text>
 		</line>
 		<line linenr="104" indent="">
 			<var>$Text</var>
@@ -1665,7 +1665,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Upgradeable to'</text>
+			<text>'Модернизируется до'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1737,7 +1737,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ware transport class'</text>
+			<text>'Класс груза'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1799,7 +1799,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Weapons'</text>
+			<text>'Вооружение'</text>
 		</line>
 		<line linenr="124" indent="&#160;" />
 		<line linenr="125" indent="&#160;">
@@ -2161,7 +2161,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Missiles'</text>
+			<text>'Ракеты'</text>
 		</line>
 		<line linenr="149" indent="">
 			<text>end</text>
@@ -2207,7 +2207,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Missiles'</text>
+			<text>'Ракеты'</text>
 		</line>
 		<line linenr="155" indent="&#160;">
 			<var>$Missiles</var>
@@ -2358,7 +2358,7 @@
 			<text> </text>
 			<text>heading</text>
 			<text>=</text>
-			<text>'Description'</text>
+			<text>'Описание'</text>
 		</line>
 		<line linenr="166" indent="" />
 		<line linenr="167" indent="">
@@ -2965,7 +2965,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Found at Shipyards" />
+					<sval type="string" val="Найден на верфи" />
 				</sval>
 				<sval type="array" size="12">
 					<sval type="int" val="1908" />
@@ -3063,7 +3063,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No known shipyards" />
+					<sval type="string" val="Не обнаружен на известных верфях" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 				</sval>
@@ -3072,7 +3072,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Technical Data" />
+					<sval type="string" val="Технические данные" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="2007" />
@@ -3088,7 +3088,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s" />
+					<sval type="string" val="%s м/с" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3104,7 +3104,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Base speed" />
+					<sval type="string" val="Базовая скорость" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3133,7 +3133,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s" />
+					<sval type="string" val="%s м/с" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3149,7 +3149,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgradeable to" />
+					<sval type="string" val="Модернизируется до" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3181,7 +3181,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s²" />
+					<sval type="string" val="%s м/с²" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3197,7 +3197,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Acceleratrion" />
+					<sval type="string" val="Ускорение" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3224,7 +3224,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s²" />
+					<sval type="string" val="%s м/с²" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3240,7 +3240,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgradeable to" />
+					<sval type="string" val="Модернизируется до" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3272,7 +3272,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s²" />
+					<sval type="string" val="%s м/с²" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3288,7 +3288,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Steering" />
+					<sval type="string" val="Рулевое управление" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3317,7 +3317,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s m/s²" />
+					<sval type="string" val="%s м/с²" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3333,7 +3333,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgradeable to" />
+					<sval type="string" val="Модернизируется до" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3383,7 +3383,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Max shield" />
+					<sval type="string" val="Максимальный щит" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3408,13 +3408,13 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s MW" />
+					<sval type="string" val="%s МВт" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield generator" />
+					<sval type="string" val="Генератор щитов" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3444,13 +3444,13 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s MJ" />
+					<sval type="string" val="%s МДж" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Weapon Energy" />
+					<sval type="string" val="Генератор оружия" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3477,7 +3477,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s MW" />
+					<sval type="string" val="%s МВт" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="0" />
@@ -3493,7 +3493,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Weapon energy reload rate" />
+					<sval type="string" val="Время перезарядки оружейного генератора" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3523,13 +3523,13 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s units" />
+					<sval type="string" val="%s единиц" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cargo bay" />
+					<sval type="string" val="Грузовой отсек" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3556,13 +3556,13 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s units" />
+					<sval type="string" val="%s единиц" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgradeable to" />
+					<sval type="string" val="Модернизируется до" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3585,7 +3585,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware transport class" />
+					<sval type="string" val="Класс груза" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 				</sval>
@@ -3603,7 +3603,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Weapons" />
+					<sval type="string" val="Вооружение" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -3807,7 +3807,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missiles" />
+					<sval type="string" val="Ракеты" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1522" />
@@ -3827,7 +3827,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missiles" />
+					<sval type="string" val="Ракеты" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="658" />
@@ -3896,7 +3896,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Description" />
+					<sval type="string" val="Описание" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="1497" />

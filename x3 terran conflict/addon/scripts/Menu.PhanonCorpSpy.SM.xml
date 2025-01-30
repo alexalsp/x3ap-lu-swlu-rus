@@ -443,7 +443,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Settings'</text>
+			<text>'Настройки'</text>
 		</line>
 		<line linenr="064" indent="&#160;" />
 		<line linenr="065" indent="&#160;">
@@ -486,7 +486,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Add money'</text>
+			<text>'Добавить деньги'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -526,7 +526,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Global'</text>
+			<text>'Общее'</text>
 		</line>
 		<line linenr="069" indent="&#160;" />
 		<line linenr="070" indent="&#160;">
@@ -564,7 +564,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s Cr'</text>
+			<text>'%s кр.'</text>
 		</line>
 		<line linenr="072" indent="&#160;">
 			<var>$Text</var>
@@ -584,7 +584,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Corporation money'</text>
+			<text>'Деньги корпорации'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -655,7 +655,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Next purchase'</text>
+			<text>'Следующая покупка'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -716,7 +716,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - shop list'</text>
+			<text>'Тики - список магазинов'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -778,7 +778,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - asset notification'</text>
+			<text>'Тики - уведомление об активах'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -839,7 +839,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - priority low'</text>
+			<text>'Тики - низкий приоритет'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -900,7 +900,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - priority medium'</text>
+			<text>'Тики - средниу приоритет'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -961,7 +961,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - next generation wait ticks'</text>
+			<text>'Тики - ожидание генерерации новых тиков'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1045,7 +1045,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Ticks - reward ticks'</text>
+			<text>'Тики - награда тиками'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1206,7 +1206,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Generation'</text>
+			<text>'Генерация'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -1252,7 +1252,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Objects'</text>
+			<text>'Объекты'</text>
 		</line>
 		<line linenr="120" indent="&#160;" />
 		<line linenr="121" indent="&#160;">
@@ -2362,7 +2362,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Stations'</text>
+			<text>'Станции'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -2465,7 +2465,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Docks'</text>
+			<text>'Доки'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -2511,7 +2511,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Tasks'</text>
+			<text>'Задачи'</text>
 		</line>
 		<line linenr="196" indent="&#160;" />
 		<line linenr="197" indent="&#160;">
@@ -2837,7 +2837,7 @@
 			<text> </text>
 			<text>left</text>
 			<text>=</text>
-			<text>'Carried'</text>
+			<text>'Перевезено'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -3339,7 +3339,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Settings" />
+					<sval type="string" val="Настройки" />
 				</sval>
 				<sval type="array" size="8">
 					<sval type="int" val="1083" />
@@ -3356,7 +3356,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Add money" />
+					<sval type="string" val="Добавить деньги" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="131074" />
@@ -3369,7 +3369,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Global" />
+					<sval type="string" val="Общее" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="158" />
@@ -3383,13 +3383,13 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s Cr" />
+					<sval type="string" val="%s кр." />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Corporation money" />
+					<sval type="string" val="Деньги корпорации" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3412,7 +3412,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Next purchase" />
+					<sval type="string" val="Следующая покупка" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3433,7 +3433,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - shop list" />
+					<sval type="string" val="Тики - список магазинов" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3454,7 +3454,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - asset notification" />
+					<sval type="string" val="Тики - уведомление об активах" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3475,7 +3475,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - priority low" />
+					<sval type="string" val="Тики - низкий приоритет" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3496,7 +3496,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - priority medium" />
+					<sval type="string" val="Тики - средниу приоритет" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3517,7 +3517,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - next generation wait ticks" />
+					<sval type="string" val="Тики - ожидание генерерации новых тиков" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3558,7 +3558,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ticks - reward ticks" />
+					<sval type="string" val="Тики - награда тиками" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3635,7 +3635,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Generation" />
+					<sval type="string" val="Генерация" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -3651,7 +3651,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Objects" />
+					<sval type="string" val="Объекты" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1068" />
@@ -4055,7 +4055,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stations" />
+					<sval type="string" val="Станции" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -4092,7 +4092,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docks" />
+					<sval type="string" val="Доки" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 				</sval>
@@ -4108,7 +4108,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Tasks" />
+					<sval type="string" val="Задачи" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="142" />
@@ -4342,7 +4342,7 @@
 					<sval type="int" val="1523" />
 					<sval type="int" val="14" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Carried" />
+					<sval type="string" val="Перевезено" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 				</sval>

@@ -48,7 +48,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -117,7 +117,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (stock: '</text>
+			<text>' (склад: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -132,7 +132,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Looping project: '</text>
+			<text>'Цикл проекта: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -150,7 +150,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Current project: '</text>
+			<text>'Текущий проект: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -205,7 +205,7 @@
 			<var>101</var>
 			<text>,</text>
 			<text> </text>
-			<text>' STALLED'</text>
+			<text>' ОСТАНОВЛЕН'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -393,7 +393,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Project size: '</text>
+			<text>'Размер проекта: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -424,7 +424,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Progress: '</text>
+			<text>'Процесс строительства: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -588,7 +588,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -600,7 +600,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' minute'</text>
+			<text>' мин.'</text>
 		</line>
 		<line linenr="044" indent="">
 			<text>else</text>
@@ -618,7 +618,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -630,7 +630,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' minutes'</text>
+			<text>' мин.'</text>
 		</line>
 		<line linenr="046" indent="">
 			<text>else</text>
@@ -648,7 +648,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: few seconds'</text>
+			<text>'Времени осталось: несколько секунд'</text>
 		</line>
 		<line linenr="048" indent="">
 			<text>else</text>
@@ -658,7 +658,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Time left: '</text>
+			<text>'Времени осталось: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -666,7 +666,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' seconds'</text>
+			<text>' сек.'</text>
 		</line>
 		<line linenr="050" indent="">
 			<text>end</text>
@@ -724,7 +724,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Cancel'</text>
+			<text>'Отменить'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -801,7 +801,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="15" />
@@ -857,7 +857,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (stock: " />
+					<sval type="string" val=" (склад: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -882,7 +882,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Looping project: " />
+					<sval type="string" val="Цикл проекта: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="15" />
@@ -907,7 +907,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Current project: " />
+					<sval type="string" val="Текущий проект: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="15" />
@@ -951,7 +951,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="101" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" STALLED" />
+					<sval type="string" val=" ОСТАНОВЛЕН" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -1106,7 +1106,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Project size: " />
+					<sval type="string" val="Размер проекта: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="16" />
 					<sval type="int" val="15" />
@@ -1128,7 +1128,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Progress: " />
+					<sval type="string" val="Процесс строительства: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="13" />
 					<sval type="int" val="15" />
@@ -1287,7 +1287,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="4" />
@@ -1297,7 +1297,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" minute" />
+					<sval type="string" val=" мин." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -1333,7 +1333,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="4" />
@@ -1343,7 +1343,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" minutes" />
+					<sval type="string" val=" мин." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -1379,7 +1379,7 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: few seconds" />
+					<sval type="string" val="Времени осталось: несколько секунд" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1392,13 +1392,13 @@
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Time left: " />
+					<sval type="string" val="Времени осталось: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" seconds" />
+					<sval type="string" val=" сек." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -1425,7 +1425,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cancel" />
+					<sval type="string" val="Отменить" />
 					<sval type="int" val="5" />
 					<sval type="string" val="abort" />
 				</sval>

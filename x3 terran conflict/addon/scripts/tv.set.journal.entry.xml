@@ -26,7 +26,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Journal Entry Added'</text>
+			<text>'Запись добавлена в журнал'</text>
 			<text> </text>
 			<text>icon</text>
 			<text>=</text>
@@ -96,7 +96,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Journal Entry Added" />
+					<sval type="string" val="Запись добавлена в журнал" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />

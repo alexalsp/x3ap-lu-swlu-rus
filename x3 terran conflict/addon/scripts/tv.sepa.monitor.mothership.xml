@@ -1145,7 +1145,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'New ship launched in '</text>
+			<text>'Завершено строительство нового корабля в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1191,7 +1191,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'New ships launched in '</text>
+			<text>'Завершено строительство новых кораблей в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -3019,7 +3019,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>'(s) built by '</text>
+			<text>'изготовлено '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -3045,7 +3045,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>'(s) built by '</text>
+			<text>'изготовлено '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -3071,7 +3071,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>'(s) built by '</text>
+			<text>'изготовлено '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6234,7 +6234,7 @@
 					<sval type="int" val="38" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="New ship launched in " />
+					<sval type="string" val="Завершено строительство нового корабля в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
@@ -6281,7 +6281,7 @@
 					<sval type="int" val="38" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="New ships launched in " />
+					<sval type="string" val="Завершено строительство новых кораблей в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
@@ -7435,7 +7435,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="(s) built by " />
+					<sval type="string" val="изготовлено " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131075" />
@@ -7475,7 +7475,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="(s) built by " />
+					<sval type="string" val="изготовлено " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131075" />
@@ -7515,7 +7515,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="(s) built by " />
+					<sval type="string" val="изготовлено " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131075" />

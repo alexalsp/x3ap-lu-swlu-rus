@@ -252,7 +252,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Hue: 0 to 360'</text>
+			<text>'Оттенок: от 0 до 360'</text>
 		</line>
 		<line linenr="038" indent="&#160;&#160;">
 			<text>if</text>
@@ -294,7 +294,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Hue set'</text>
+			<text>'Набор оттенков'</text>
 			<text> </text>
 			<text>argument2</text>
 			<text>=</text>
@@ -327,7 +327,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Incorrect value'</text>
+			<text>'Неверное значение'</text>
 			<text> </text>
 			<text>argument2</text>
 			<text>=</text>
@@ -381,7 +381,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Saturation: 0 to 1000'</text>
+			<text>'Насыщенность: от 0 до 1000'</text>
 		</line>
 		<line linenr="046" indent="&#160;&#160;">
 			<text>if</text>
@@ -423,7 +423,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Saturation set'</text>
+			<text>'Насыщенность задана'</text>
 			<text> </text>
 			<text>argument2</text>
 			<text>=</text>
@@ -456,7 +456,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Incorrect value'</text>
+			<text>'Неверное значение'</text>
 			<text> </text>
 			<text>argument2</text>
 			<text>=</text>
@@ -804,7 +804,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Paint applied'</text>
+			<text>'Окраска выполнена'</text>
 			<text> </text>
 			<text>argument2</text>
 			<text>=</text>
@@ -953,7 +953,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Docked Ships'</text>
+			<text>'Пристыкованные корабли'</text>
 		</line>
 		<line linenr="111" indent="&#160;&#160;">
 			<var>$allShips</var>
@@ -1424,7 +1424,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No docked ships'</text>
+			<text>'Нет пристыкованных кораблей'</text>
 		</line>
 		<line linenr="148" indent="&#160;&#160;">
 			<text>end</text>
@@ -1453,14 +1453,14 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Paint'</text>
+			<text>'Покраска'</text>
 		</line>
 		<line linenr="152" indent="&#160;&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Hue: '</text>
+			<text>'Оттенок: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1499,7 +1499,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Saturation: '</text>
+			<text>'Насыщенность: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1567,7 +1567,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Blue'</text>
+			<text>'Синий'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1595,7 +1595,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Cyan'</text>
+			<text>'Голубой'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1623,7 +1623,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Green'</text>
+			<text>'Зелёный'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1651,7 +1651,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Lime'</text>
+			<text>'Лайм'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1679,7 +1679,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Mint'</text>
+			<text>'Мятный'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1707,7 +1707,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Orange'</text>
+			<text>'Оранжевый'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1735,7 +1735,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Pink'</text>
+			<text>'Розовый'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1763,7 +1763,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Purple'</text>
+			<text>'Пурпурный'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1791,7 +1791,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Red'</text>
+			<text>'Красный'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1819,7 +1819,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Turquoise'</text>
+			<text>'Бирюзовый'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1847,7 +1847,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Yellow'</text>
+			<text>'Жёлтый'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -1889,7 +1889,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Apply this paint to the selected ship'</text>
+			<text>'Применить эту краску на выбранный корабль'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -2228,7 +2228,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hue: 0 to 360" />
+					<sval type="string" val="Оттенок: от 0 до 360" />
 				</sval>
 				<sval type="array" size="25">
 					<sval type="int" val="104" />
@@ -2274,7 +2274,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hue set" />
+					<sval type="string" val="Набор оттенков" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -2294,7 +2294,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Incorrect value" />
+					<sval type="string" val="Неверное значение" />
 					<sval type="int" val="4" />
 					<sval type="int" val="66" />
 					<sval type="int" val="4" />
@@ -2329,7 +2329,7 @@
 					<sval type="int" val="24" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Saturation: 0 to 1000" />
+					<sval type="string" val="Насыщенность: от 0 до 1000" />
 				</sval>
 				<sval type="array" size="25">
 					<sval type="int" val="104" />
@@ -2375,7 +2375,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Saturation set" />
+					<sval type="string" val="Насыщенность задана" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -2395,7 +2395,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Incorrect value" />
+					<sval type="string" val="Неверное значение" />
 					<sval type="int" val="4" />
 					<sval type="int" val="66" />
 					<sval type="int" val="4" />
@@ -2846,7 +2846,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Paint applied" />
+					<sval type="string" val="Окраска выполнена" />
 					<sval type="int" val="4" />
 					<sval type="int" val="11" />
 					<sval type="int" val="4" />
@@ -2950,7 +2950,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docked Ships" />
+					<sval type="string" val="Пристыкованные корабли" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="1008" />
@@ -3256,7 +3256,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No docked ships" />
+					<sval type="string" val="Нет пристыкованных кораблей" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -3272,14 +3272,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Paint" />
+					<sval type="string" val="Покраска" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
 					<sval type="int" val="28" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hue: " />
+					<sval type="string" val="Оттенок: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="11" />
 					<sval type="int" val="15" />
@@ -3303,7 +3303,7 @@
 					<sval type="int" val="28" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Saturation: " />
+					<sval type="string" val="Насыщенность: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="12" />
 					<sval type="int" val="15" />
@@ -3332,7 +3332,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Blue" />
+					<sval type="string" val="Синий" />
 					<sval type="int" val="5" />
 					<sval type="string" val="blue" />
 				</sval>
@@ -3341,7 +3341,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Cyan" />
+					<sval type="string" val="Голубой" />
 					<sval type="int" val="5" />
 					<sval type="string" val="cyan" />
 				</sval>
@@ -3350,7 +3350,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Green" />
+					<sval type="string" val="Зелёный" />
 					<sval type="int" val="5" />
 					<sval type="string" val="green" />
 				</sval>
@@ -3359,7 +3359,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Lime" />
+					<sval type="string" val="Лайм" />
 					<sval type="int" val="5" />
 					<sval type="string" val="lime" />
 				</sval>
@@ -3368,7 +3368,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mint" />
+					<sval type="string" val="Мятный" />
 					<sval type="int" val="5" />
 					<sval type="string" val="mint" />
 				</sval>
@@ -3377,7 +3377,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Orange" />
+					<sval type="string" val="Оранжевый" />
 					<sval type="int" val="5" />
 					<sval type="string" val="orange" />
 				</sval>
@@ -3386,7 +3386,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Pink" />
+					<sval type="string" val="Розовый" />
 					<sval type="int" val="5" />
 					<sval type="string" val="pink" />
 				</sval>
@@ -3395,7 +3395,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Purple" />
+					<sval type="string" val="Пурпурный" />
 					<sval type="int" val="5" />
 					<sval type="string" val="purple" />
 				</sval>
@@ -3404,7 +3404,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Red" />
+					<sval type="string" val="Красный" />
 					<sval type="int" val="5" />
 					<sval type="string" val="red" />
 				</sval>
@@ -3413,7 +3413,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Turquoise" />
+					<sval type="string" val="Бирюзовый" />
 					<sval type="int" val="5" />
 					<sval type="string" val="turquoise" />
 				</sval>
@@ -3422,7 +3422,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yellow" />
+					<sval type="string" val="Жёлтый" />
 					<sval type="int" val="5" />
 					<sval type="string" val="yellow" />
 				</sval>
@@ -3436,7 +3436,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Apply this paint to the selected ship" />
+					<sval type="string" val="Применить эту краску на выбранный корабль" />
 					<sval type="int" val="5" />
 					<sval type="string" val="paint" />
 				</sval>

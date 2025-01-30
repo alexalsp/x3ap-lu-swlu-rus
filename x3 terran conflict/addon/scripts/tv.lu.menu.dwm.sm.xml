@@ -225,31 +225,31 @@
 			<text>arguments</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Energy'</text>
+			<text>'Энергия'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Lasers'</text>
+			<text>'Лазеры'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Shields'</text>
+			<text>'Щиты'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Missiles'</text>
+			<text>'Ракеты'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Food'</text>
+			<text>'Еда'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Natural'</text>
+			<text>'Натура'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Bio'</text>
+			<text>'Био'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Tech'</text>
+			<text>'Техника'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Minerals'</text>
+			<text>'Минералы'</text>
 		</line>
 		<line linenr="022" indent="">
 			<text>append</text>
@@ -284,7 +284,7 @@
 		<line linenr="025" indent="&#160;">
 			<text>append</text>
 			<text> </text>
-			<text>'Mothership'</text>
+			<text>'Материнский корабль'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -295,7 +295,7 @@
 		<line linenr="026" indent="&#160;">
 			<text>append</text>
 			<text> </text>
-			<text>'Mothership'</text>
+			<text>'Материнский корабль'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -321,13 +321,13 @@
 			<text> </text>
 			<text>arguments</text>
 			<text>=</text>
-			<text>'Capacities'</text>
+			<text>'Уровни источников'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Sources'</text>
+			<text>'Источники'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Thresholds'</text>
+			<text>'Пороговые значения'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -414,7 +414,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Capacities'</text>
+			<text>'Уровни источников'</text>
 		</line>
 		<line linenr="047" indent="&#160;">
 			<text>gosub</text>
@@ -437,7 +437,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Sources'</text>
+			<text>'Источники'</text>
 		</line>
 		<line linenr="050" indent="&#160;">
 			<text>gosub</text>
@@ -454,7 +454,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Thresholds'</text>
+			<text>'Пороговые значения'</text>
 		</line>
 		<line linenr="052" indent="&#160;">
 			<text>gosub</text>
@@ -473,7 +473,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Dockware Manager'</text>
+			<text>'Менеджер склада'</text>
 		</line>
 		<line linenr="058" indent="">
 			<var>$Cargo</var>
@@ -589,7 +589,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Dockware Manager'</text>
+			<text>'Менеджер склада'</text>
 		</line>
 		<line linenr="065" indent="" />
 		<line linenr="066" indent="">
@@ -1290,7 +1290,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Capacity'</text>
+			<text>'Необходимый уровень'</text>
 		</line>
 		<line linenr="157" indent="&#160;&#160;">
 			<var>$Ware</var>
@@ -1484,7 +1484,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Threshold'</text>
+			<text>'Пороговое значение'</text>
 		</line>
 		<line linenr="175" indent="&#160;&#160;">
 			<var>$Ware</var>
@@ -1691,7 +1691,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Control'</text>
+			<text>'Управление'</text>
 		</line>
 		<line linenr="202" indent="&#160;" />
 		<line linenr="203" indent="&#160;">
@@ -1739,7 +1739,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Page'</text>
+			<text>'Страница'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1867,7 +1867,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Order licensing'</text>
+			<text>'Лицензирование оборудования'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -1957,7 +1957,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Template outfit'</text>
+			<text>'Оснащение по шаблону'</text>
 		</line>
 		<line linenr="220" indent="&#160;&#160;">
 			<text>else</text>
@@ -2012,7 +2012,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Template outfit'</text>
+			<text>'Оснащение по шаблону'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -2099,7 +2099,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Upgrade ship'</text>
+			<text>'Модернизация корабля'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -2151,7 +2151,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Ware group'</text>
+			<text>'Группа товаров'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -2202,7 +2202,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Set group capacity'</text>
+			<text>'Установить необходимый уровень для выбранной группы'</text>
 			<text>,</text>
 			<text> </text>
 			<text>min</text>
@@ -2231,14 +2231,14 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Set capacity of wares'</text>
+			<text>'Установить необходимый уровень для товаров'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Adds new ware group'</text>
+			<text>'Добавить новую группу товаров'</text>
 			<text>,</text>
 			<text> </text>
 			<text>enter</text>
@@ -2271,7 +2271,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Ware management handled by MLCC.'</text>
+			<text>'ВКЦ управляет товарами.'</text>
 		</line>
 		<line linenr="238" indent="&#160;">
 			<text>end</text>
@@ -2303,7 +2303,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Energy'</text>
+			<text>'Энергия'</text>
 		</line>
 		<line linenr="245" indent="&#160;">
 			<var>$MainType</var>
@@ -2331,7 +2331,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Lasers'</text>
+			<text>'Лазеры'</text>
 		</line>
 		<line linenr="250" indent="&#160;">
 			<var>$MainType</var>
@@ -2359,7 +2359,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shields'</text>
+			<text>'Щиты'</text>
 		</line>
 		<line linenr="255" indent="&#160;">
 			<var>$MainType</var>
@@ -2387,7 +2387,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Missiles'</text>
+			<text>'Ракеты'</text>
 		</line>
 		<line linenr="260" indent="&#160;">
 			<var>$MainType</var>
@@ -2415,7 +2415,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Food'</text>
+			<text>'Еда'</text>
 		</line>
 		<line linenr="265" indent="&#160;">
 			<var>$MainType</var>
@@ -2443,7 +2443,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Natural'</text>
+			<text>'Натура'</text>
 		</line>
 		<line linenr="270" indent="&#160;">
 			<var>$MainType</var>
@@ -2472,7 +2472,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Bio'</text>
+			<text>'Био'</text>
 		</line>
 		<line linenr="276" indent="&#160;">
 			<var>$MainType</var>
@@ -2500,7 +2500,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Tech'</text>
+			<text>'Техника'</text>
 		</line>
 		<line linenr="281" indent="&#160;">
 			<var>$MainType</var>
@@ -2528,7 +2528,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Minerals'</text>
+			<text>'Минералы'</text>
 		</line>
 		<line linenr="286" indent="&#160;">
 			<var>$MainType</var>
@@ -2563,7 +2563,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship Manufacturing Components'</text>
+			<text>'Производство кораблей'</text>
 		</line>
 		<line linenr="292" indent="&#160;">
 			<var>$MainType</var>
@@ -2906,7 +2906,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Mothership'</text>
+			<text>'Материнский корабль'</text>
 		</line>
 		<line linenr="337" indent="&#160;&#160;">
 			<var>$Include</var>
@@ -3168,7 +3168,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Amount'</text>
+			<text>'Количество'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -3211,7 +3211,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Capacity'</text>
+			<text>'Необходимый уровень'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -3254,7 +3254,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Per'</text>
+			<text>'Процент'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -3297,7 +3297,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Freight Source'</text>
+			<text>'Источник товара'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -4019,7 +4019,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Capacity'</text>
+			<text>'Необходимый уровень'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -4192,7 +4192,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Unassigned'</text>
+			<text>'Нераспределённые'</text>
 		</line>
 		<line linenr="447" indent="&#160;&#160;&#160;">
 			<var>$AddedHeading</var>
@@ -4468,7 +4468,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Ware Sources'</text>
+			<text>'Источники товара'</text>
 		</line>
 		<line linenr="475" indent="&#160;&#160;&#160;">
 			<var>$WareCount</var>
@@ -5006,7 +5006,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ware'</text>
+			<text>'Товар'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -5049,7 +5049,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Source Export Threshold'</text>
+			<text>'Мин. уровень для экспорта'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -5092,7 +5092,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Overstock'</text>
+			<text>'Не ограничено'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -5341,7 +5341,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yes'</text>
+			<text>'Да'</text>
 		</line>
 		<line linenr="550" indent="&#160;&#160;&#160;">
 			<text>else</text>
@@ -5358,7 +5358,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="553" indent="&#160;&#160;&#160;&#160;">
 			<text>end</text>
@@ -5454,7 +5454,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Threshold'</text>
+			<text>'Пороговое значение'</text>
 			<text>,</text>
 			<text> </text>
 			<text>right</text>
@@ -5646,7 +5646,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Mothership'</text>
+			<text>'Материнский корабль'</text>
 		</line>
 		<line linenr="580" indent="&#160;&#160;&#160;">
 			<var>$SubTypes</var>
@@ -6821,23 +6821,23 @@
 					<sval type="int" val="1829" />
 					<sval type="int" val="20" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Energy" />
+					<sval type="string" val="Энергия" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Lasers" />
+					<sval type="string" val="Лазеры" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shields" />
+					<sval type="string" val="Щиты" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missiles" />
+					<sval type="string" val="Ракеты" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Food" />
+					<sval type="string" val="Еда" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Natural" />
+					<sval type="string" val="Натура" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Bio" />
+					<sval type="string" val="Био" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Tech" />
+					<sval type="string" val="Техника" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Minerals" />
+					<sval type="string" val="Минералы" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
@@ -6861,24 +6861,24 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership" />
+					<sval type="string" val="Материнский корабль" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="135" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership" />
+					<sval type="string" val="Материнский корабль" />
 				</sval>
 				<sval type="array" size="12">
 					<sval type="int" val="1415" />
 					<sval type="int" val="21" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Capacities" />
+					<sval type="string" val="Уровни источников" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sources" />
+					<sval type="string" val="Источники" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Thresholds" />
+					<sval type="string" val="Пороговые значения" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -6933,7 +6933,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Capacities" />
+					<sval type="string" val="Уровни источников" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -6960,7 +6960,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sources" />
+					<sval type="string" val="Источники" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -6983,7 +6983,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Thresholds" />
+					<sval type="string" val="Пороговые значения" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -7000,7 +7000,7 @@
 					<sval type="int" val="22" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Dockware Manager" />
+					<sval type="string" val="Менеджер склада" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -7057,7 +7057,7 @@
 					<sval type="int" val="22" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Dockware Manager" />
+					<sval type="string" val="Менеджер склада" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -7612,7 +7612,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="35" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Capacity" />
+					<sval type="string" val="Необходимый уровень" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -7729,7 +7729,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="35" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Threshold" />
+					<sval type="string" val="Пороговое значение" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -7870,7 +7870,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Control" />
+					<sval type="string" val="Управление" />
 				</sval>
 				<sval type="array" size="8">
 					<sval type="int" val="1083" />
@@ -7887,7 +7887,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Page" />
+					<sval type="string" val="Страница" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="21" />
 					<sval type="int" val="131074" />
@@ -7932,7 +7932,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Order licensing" />
+					<sval type="string" val="Лицензирование оборудования" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="37" />
 				</sval>
@@ -7976,7 +7976,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template outfit" />
+					<sval type="string" val="Оснащение по шаблону" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="112" />
@@ -7995,7 +7995,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template outfit" />
+					<sval type="string" val="Оснащение по шаблону" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="37" />
 				</sval>
@@ -8026,7 +8026,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgrade ship" />
+					<sval type="string" val="Модернизация корабля" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="37" />
 				</sval>
@@ -8045,7 +8045,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware group" />
+					<sval type="string" val="Группа товаров" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="131074" />
@@ -8060,7 +8060,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Set group capacity" />
+					<sval type="string" val="Установить необходимый уровень для выбранной группы" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8070,9 +8070,9 @@
 					<sval type="int" val="5" />
 					<sval type="string" val="AddWareGroupCapacity" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Set capacity of wares" />
+					<sval type="string" val="Установить необходимый уровень для товаров" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Adds new ware group" />
+					<sval type="string" val="Добавить новую группу товаров" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="10" />
 				</sval>
@@ -8085,7 +8085,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware management handled by MLCC." />
+					<sval type="string" val="ВКЦ управляет товарами." />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -8117,7 +8117,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Energy" />
+					<sval type="string" val="Энергия" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8148,7 +8148,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Lasers" />
+					<sval type="string" val="Лазеры" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8179,7 +8179,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shields" />
+					<sval type="string" val="Щиты" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8210,7 +8210,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missiles" />
+					<sval type="string" val="Ракеты" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8241,7 +8241,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Food" />
+					<sval type="string" val="Еда" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8272,7 +8272,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Natural" />
+					<sval type="string" val="Натура" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8303,7 +8303,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Bio" />
+					<sval type="string" val="Био" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8334,7 +8334,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Tech" />
+					<sval type="string" val="Техника" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8365,7 +8365,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Minerals" />
+					<sval type="string" val="Минералы" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8405,7 +8405,7 @@
 					<sval type="int" val="42" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship Manufacturing Components" />
+					<sval type="string" val="Производство кораблей" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -8797,7 +8797,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="41" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership" />
+					<sval type="string" val="Материнский корабль" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9002,7 +9002,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Amount" />
+					<sval type="string" val="Количество" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -9016,7 +9016,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Capacity" />
+					<sval type="string" val="Необходимый уровень" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -9030,7 +9030,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Per" />
+					<sval type="string" val="Процент" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -9044,7 +9044,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Freight Source" />
+					<sval type="string" val="Источник товара" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -9459,7 +9459,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="45" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Capacity" />
+					<sval type="string" val="Необходимый уровень" />
 					<sval type="int" val="5" />
 					<sval type="string" val=" " />
 					<sval type="int" val="131075" />
@@ -9570,7 +9570,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Unassigned" />
+					<sval type="string" val="Нераспределённые" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -9711,7 +9711,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware Sources" />
+					<sval type="string" val="Источники товара" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="131" />
@@ -10025,7 +10025,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ware" />
+					<sval type="string" val="Товар" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -10039,7 +10039,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Source Export Threshold" />
+					<sval type="string" val="Мин. уровень для экспорта" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -10053,7 +10053,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Overstock" />
+					<sval type="string" val="Не ограничено" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="0" />
@@ -10199,7 +10199,7 @@
 					<sval type="int" val="57" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yes" />
+					<sval type="string" val="Да" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10221,7 +10221,7 @@
 					<sval type="int" val="57" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No" />
+					<sval type="string" val="Нет" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10254,7 +10254,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="45" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Threshold" />
+					<sval type="string" val="Пороговое значение" />
 					<sval type="int" val="5" />
 					<sval type="string" val=" " />
 					<sval type="int" val="131075" />
@@ -10400,7 +10400,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="8" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership" />
+					<sval type="string" val="Материнский корабль" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />

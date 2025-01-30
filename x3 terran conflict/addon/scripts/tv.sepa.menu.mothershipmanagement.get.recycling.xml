@@ -35,7 +35,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Recycle'</text>
+			<text>'Отсек утилизации'</text>
 		</line>
 		<line linenr="004" indent="">
 			<var>$t</var>
@@ -229,7 +229,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -561,7 +561,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No docked ships'</text>
+			<text>'Нет пристыкованных кораблей'</text>
 		</line>
 		<line linenr="025" indent="">
 			<text>else</text>
@@ -1267,7 +1267,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No recyclable ships'</text>
+			<text>'Нет кораблей для утилизации'</text>
 		</line>
 		<line linenr="072" indent="">
 			<text>end</text>
@@ -1910,7 +1910,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Laser'</text>
+			<text>'Лазер'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -3014,7 +3014,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No laser'</text>
+			<text>'Нет лазеров'</text>
 		</line>
 		<line linenr="181" indent="&#160;" />
 		<line linenr="182" indent="&#160;">
@@ -3100,7 +3100,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Missile'</text>
+			<text>'Ракета'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -3869,7 +3869,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No missile'</text>
+			<text>'Нет ракет'</text>
 		</line>
 		<line linenr="231" indent="&#160;" />
 		<line linenr="232" indent="&#160;">
@@ -3956,7 +3956,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shield'</text>
+			<text>'Щит'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -4665,7 +4665,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No shield'</text>
+			<text>'Нет щитов'</text>
 		</line>
 		<line linenr="279" indent="&#160;" />
 		<line linenr="280" indent="&#160;">
@@ -5624,7 +5624,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Recycle" />
+					<sval type="string" val="Отсек утилизации" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="128" />
@@ -5728,7 +5728,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -5850,7 +5850,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No docked ships" />
+					<sval type="string" val="Нет пристыкованных кораблей" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="112" />
@@ -6320,7 +6320,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No recyclable ships" />
+					<sval type="string" val="Нет кораблей для утилизации" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1522" />
@@ -6718,7 +6718,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Laser" />
+					<sval type="string" val="Лазер" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7310,7 +7310,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No laser" />
+					<sval type="string" val="Нет лазеров" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1522" />
@@ -7347,7 +7347,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missile" />
+					<sval type="string" val="Ракета" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -7787,7 +7787,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No missile" />
+					<sval type="string" val="Нет ракет" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1522" />
@@ -7824,7 +7824,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield" />
+					<sval type="string" val="Щит" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -8222,7 +8222,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No shield" />
+					<sval type="string" val="Нет щитов" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="103" />

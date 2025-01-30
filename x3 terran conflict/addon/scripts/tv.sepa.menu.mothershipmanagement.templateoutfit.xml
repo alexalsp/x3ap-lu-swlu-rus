@@ -43,7 +43,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Template Outfit'</text>
+			<text>'Шаблон снаряжения'</text>
 		</line>
 		<line linenr="004" indent="" />
 		<line linenr="005" indent="">
@@ -211,7 +211,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'None'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="025" indent="">
 			<text>set</text>
@@ -408,7 +408,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Off'</text>
+			<text>'Выкл'</text>
 		</line>
 		<line linenr="043" indent="&#160;">
 			<var>$Settings</var>
@@ -418,7 +418,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Off'</text>
+			<text>'Выкл'</text>
 		</line>
 		<line linenr="044" indent="&#160;">
 			<var>$Settings</var>
@@ -428,7 +428,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'None'</text>
+			<text>'Нет'</text>
 		</line>
 		<line linenr="045" indent="&#160;">
 			<var>$Settings</var>
@@ -448,7 +448,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Off'</text>
+			<text>'Выкл'</text>
 		</line>
 		<line linenr="047" indent="&#160;">
 			<text>set</text>
@@ -614,7 +614,7 @@
 					<sval type="int" val="3" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template Outfit" />
+					<sval type="string" val="Шаблон снаряжения" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -764,7 +764,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="None" />
+					<sval type="string" val="Нет" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="157" />
@@ -874,7 +874,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Off" />
+					<sval type="string" val="Выкл" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -883,7 +883,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Off" />
+					<sval type="string" val="Выкл" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -892,7 +892,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="None" />
+					<sval type="string" val="Нет" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -910,7 +910,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="6" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Off" />
+					<sval type="string" val="Выкл" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="157" />

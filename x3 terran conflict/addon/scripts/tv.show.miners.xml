@@ -24,7 +24,7 @@
 			<text> </text>
 			<text>Task</text>
 			<text>=</text>
-			<text>'MN'</text>
+			<text>'Ш'</text>
 		</line>
 		<line linenr="002" indent="" />
 		<line linenr="003" indent="">
@@ -51,7 +51,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="MN" />
+					<sval type="string" val="Ш" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="103" />

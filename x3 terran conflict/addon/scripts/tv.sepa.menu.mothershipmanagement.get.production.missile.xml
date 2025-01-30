@@ -327,7 +327,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Dumb Missile'</text>
+			<text>'Ракет без наведения'</text>
 		</line>
 		<line linenr="031" indent="&#160;">
 			<var>$foodName</var>
@@ -421,7 +421,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'High Yield Missile'</text>
+			<text>'Ракет высокой мощности'</text>
 		</line>
 		<line linenr="038" indent="&#160;">
 			<var>$foodName</var>
@@ -515,7 +515,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Seeker Missile'</text>
+			<text>'Самонаводящаяся ракета'</text>
 		</line>
 		<line linenr="045" indent="&#160;">
 			<var>$foodName</var>
@@ -609,7 +609,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Swarm Missile'</text>
+			<text>'Ракета залпового огня'</text>
 		</line>
 		<line linenr="052" indent="&#160;">
 			<var>$foodName</var>
@@ -1819,7 +1819,7 @@
 					<sval type="int" val="23" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Dumb Missile" />
+					<sval type="string" val="Ракет без наведения" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1894,7 +1894,7 @@
 					<sval type="int" val="23" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="High Yield Missile" />
+					<sval type="string" val="Ракет высокой мощности" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1969,7 +1969,7 @@
 					<sval type="int" val="23" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Seeker Missile" />
+					<sval type="string" val="Самонаводящаяся ракета" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -2044,7 +2044,7 @@
 					<sval type="int" val="23" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Swarm Missile" />
+					<sval type="string" val="Ракета залпового огня" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

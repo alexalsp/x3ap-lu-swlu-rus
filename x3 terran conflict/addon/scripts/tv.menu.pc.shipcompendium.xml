@@ -465,7 +465,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 		</line>
 		<line linenr="045" indent="&#160;">
 			<var>$Settings</var>
@@ -475,7 +475,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ascending'</text>
+			<text>'По возрастанию'</text>
 		</line>
 		<line linenr="046" indent="&#160;" />
 		<line linenr="047" indent="&#160;">
@@ -500,7 +500,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'BP only'</text>
+			<text>'Только чертёж'</text>
 		</line>
 		<line linenr="049" indent="&#160;">
 			<text>else</text>
@@ -513,7 +513,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Sold only'</text>
+			<text>'Продаваемые'</text>
 		</line>
 		<line linenr="051" indent="&#160;">
 			<text>end</text>
@@ -527,7 +527,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Performance'</text>
+			<text>'Характеристики'</text>
 		</line>
 		<line linenr="054" indent="&#160;">
 			<text>set</text>
@@ -787,7 +787,7 @@
 			<text> </text>
 			<text>pattern</text>
 			<text> </text>
-			<text>'Shield '</text>
+			<text>'Щит '</text>
 			<text> </text>
 			<text>with</text>
 			<text> </text>
@@ -1991,7 +1991,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -2000,7 +2000,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ascending" />
+					<sval type="string" val="По возрастанию" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="158" />
@@ -2015,7 +2015,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="BP only" />
+					<sval type="string" val="Только чертёж" />
 				</sval>
 				<sval type="array" size="2">
 					<sval type="int" val="112" />
@@ -2028,7 +2028,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sold only" />
+					<sval type="string" val="Продаваемые" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -2037,7 +2037,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Performance" />
+					<sval type="string" val="Характеристики" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="157" />
@@ -2156,7 +2156,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="23" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield " />
+					<sval type="string" val="Щит " />
 					<sval type="int" val="5" />
 					<sval type="string" val=" " />
 				</sval>

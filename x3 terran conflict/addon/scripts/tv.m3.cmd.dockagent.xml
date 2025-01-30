@@ -537,7 +537,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Returning home'</text>
+			<text>'Возвращаюсь домой'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1008,7 +1008,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Paused'</text>
+			<text>'Приостановлена'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2627,7 +2627,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Looking for '</text>
+			<text>'Ищу '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2635,7 +2635,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' sellers'</text>
+			<text>' для покупки'</text>
 		</line>
 		<line linenr="247" indent="&#160;&#160;&#160;&#160;&#160;">
 			<text>else</text>
@@ -2653,7 +2653,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Looking for '</text>
+			<text>'Ищу '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2661,7 +2661,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' buyers'</text>
+			<text>' для продажи'</text>
 		</line>
 		<line linenr="249" indent="&#160;&#160;&#160;&#160;">
 			<text>end</text>
@@ -4341,7 +4341,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No source found'</text>
+			<text>'Источник не найден'</text>
 		</line>
 		<line linenr="410" indent="&#160;&#160;&#160;&#160;">
 			<text>else</text>
@@ -4359,7 +4359,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No destination found'</text>
+			<text>'Пункт назначения не найден'</text>
 		</line>
 		<line linenr="412" indent="&#160;&#160;">
 			<text>end</text>
@@ -4431,7 +4431,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for source to unpause'</text>
+			<text>'Жду источник для возобновления'</text>
 		</line>
 		<line linenr="420" indent="&#160;&#160;">
 			<text>else</text>
@@ -4449,7 +4449,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for destination to unpause'</text>
+			<text>'Жду цель для возобновления'</text>
 		</line>
 		<line linenr="422" indent="&#160;&#160;">
 			<text>end</text>
@@ -4530,7 +4530,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No '</text>
+			<text>'Нет '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -4538,7 +4538,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' seller found'</text>
+			<text>' у известных продавцов'</text>
 		</line>
 		<line linenr="431" indent="&#160;">
 			<var>[THIS]</var>
@@ -4597,7 +4597,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for source export threshold'</text>
+			<text>'Ожидание порога экспорта источника'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4647,7 +4647,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'No '</text>
+			<text>'Нет '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -4655,7 +4655,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' buyer found'</text>
+			<text>' у известных покупателей'</text>
 		</line>
 		<line linenr="438" indent="&#160;&#160;">
 			<var>[THIS]</var>
@@ -4714,7 +4714,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for destination import threshold'</text>
+			<text>'Ожидание порога импорта в месте назначения'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4782,7 +4782,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for homebase import threshold'</text>
+			<text>'Ждем порог импорта у базы приписки'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4831,7 +4831,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for homebase export threshold'</text>
+			<text>'Ждем порог экспорта у базы приписки'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4887,7 +4887,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for a job'</text>
+			<text>'В ожидании задач'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -5686,7 +5686,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for cargo'</text>
+			<text>'В ожидании груза'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -5824,7 +5824,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Acquiring %s'</text>
+			<text>'Покупаю %s'</text>
 		</line>
 		<line linenr="562" indent="&#160;&#160;&#160;">
 			<text>else</text>
@@ -5842,7 +5842,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Distributing %s'</text>
+			<text>'Продаю %s'</text>
 		</line>
 		<line linenr="564" indent="&#160;&#160;&#160;&#160;">
 			<text>end</text>
@@ -6020,7 +6020,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' was unable to fully unload '</text>
+			<text>' не удалось полностью выгрузить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6028,7 +6028,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' to '</text>
+			<text>' на '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6036,7 +6036,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (opportune delivery)'</text>
+			<text>' (при своевременной доставке)'</text>
 		</line>
 		<line linenr="578" indent="&#160;&#160;&#160;&#160;&#160;&#160;">
 			<text>display</text>
@@ -6145,7 +6145,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for cargo'</text>
+			<text>'В ожидании груза'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -6334,7 +6334,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Returning home with %s'</text>
+			<text>'Возвращаюсь домой с %s'</text>
 		</line>
 		<line linenr="601" indent="&#160;&#160;">
 			<var>[THIS]</var>
@@ -6519,7 +6519,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' was unable to buy '</text>
+			<text>' не смог купить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6527,7 +6527,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>': insufficient homebase funds. Work stopped.'</text>
+			<text>': недостаточно средств на базе приписки. Работа остановлена.'</text>
 		</line>
 		<line linenr="614" indent="&#160;">
 			<text>display</text>
@@ -6588,7 +6588,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' was unable to buy '</text>
+			<text>' не смог купить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6596,7 +6596,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' from '</text>
+			<text>' у '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6617,7 +6617,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' was unable to load '</text>
+			<text>' не удалось загрузить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6625,7 +6625,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' from '</text>
+			<text>' у '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -6781,7 +6781,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' was not able to reach his destination'</text>
+			<text>' не смог добраться до места назначения'</text>
 		</line>
 		<line linenr="640" indent="&#160;&#160;">
 			<text>display</text>
@@ -7668,7 +7668,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Returning home" />
+					<sval type="string" val="Возвращаюсь домой" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -7934,7 +7934,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Paused" />
+					<sval type="string" val="Приостановлена" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9141,13 +9141,13 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Looking for " />
+					<sval type="string" val="Ищу " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="29" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" sellers" />
+					<sval type="string" val=" для покупки" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -9181,13 +9181,13 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Looking for " />
+					<sval type="string" val="Ищу " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="29" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" buyers" />
+					<sval type="string" val=" для продажи" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -10522,7 +10522,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No source found" />
+					<sval type="string" val="Источник не найден" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10550,7 +10550,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No destination found" />
+					<sval type="string" val="Пункт назначения не найден" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10599,7 +10599,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for source to unpause" />
+					<sval type="string" val="Жду источник для возобновления" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10627,7 +10627,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for destination to unpause" />
+					<sval type="string" val="Жду цель для возобновления" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -10691,13 +10691,13 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No " />
+					<sval type="string" val="Нет " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="29" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" seller found" />
+					<sval type="string" val=" у известных продавцов" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -10733,7 +10733,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for source export threshold" />
+					<sval type="string" val="Ожидание порога экспорта источника" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -10784,13 +10784,13 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No " />
+					<sval type="string" val="Нет " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="29" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" buyer found" />
+					<sval type="string" val=" у известных покупателей" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -10826,7 +10826,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for destination import threshold" />
+					<sval type="string" val="Ожидание порога импорта в месте назначения" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -10866,7 +10866,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for homebase import threshold" />
+					<sval type="string" val="Ждем порог импорта у базы приписки" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -10902,7 +10902,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for homebase export threshold" />
+					<sval type="string" val="Ждем порог экспорта у базы приписки" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -10927,7 +10927,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for a job" />
+					<sval type="string" val="В ожидании задач" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -11471,7 +11471,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for cargo" />
+					<sval type="string" val="В ожидании груза" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -11568,7 +11568,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Acquiring %s" />
+					<sval type="string" val="Покупаю %s" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -11596,7 +11596,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Distributing %s" />
+					<sval type="string" val="Продаю %s" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -11751,7 +11751,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" was unable to fully unload " />
+					<sval type="string" val=" не удалось полностью выгрузить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -11759,7 +11759,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" to " />
+					<sval type="string" val=" на " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -11767,7 +11767,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (opportune delivery)" />
+					<sval type="string" val=" (при своевременной доставке)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="11" />
@@ -11837,7 +11837,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for cargo" />
+					<sval type="string" val="В ожидании груза" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -11965,7 +11965,7 @@
 					<sval type="int" val="64" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Returning home with %s" />
+					<sval type="string" val="Возвращаюсь домой с %s" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -12102,7 +12102,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" was unable to buy " />
+					<sval type="string" val=" не смог купить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -12110,7 +12110,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=": insufficient homebase funds. Work stopped." />
+					<sval type="string" val=": недостаточно средств на базе приписки. Работа остановлена." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -12154,7 +12154,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" was unable to buy " />
+					<sval type="string" val=" не смог купить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -12162,7 +12162,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" from " />
+					<sval type="string" val=" у " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -12191,7 +12191,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" was unable to load " />
+					<sval type="string" val=" не удалось загрузить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -12199,7 +12199,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" from " />
+					<sval type="string" val=" у " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -12333,7 +12333,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" was not able to reach his destination" />
+					<sval type="string" val=" не смог добраться до места назначения" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="3" />

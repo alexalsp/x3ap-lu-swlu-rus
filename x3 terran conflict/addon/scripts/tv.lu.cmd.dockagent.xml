@@ -1345,7 +1345,7 @@
 			<text> </text>
 			<text>argument3</text>
 			<text>=</text>
-			<text>'dock agent sell'</text>
+			<text>'агент продаёт'</text>
 			<text> </text>
 			<text>argument4</text>
 			<text>=</text>
@@ -1491,7 +1491,7 @@
 			<text> </text>
 			<text>argument3</text>
 			<text>=</text>
-			<text>'dock agent sell'</text>
+			<text>'агент продаёт'</text>
 			<text> </text>
 			<text>argument4</text>
 			<text>=</text>
@@ -1555,7 +1555,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Selling %s'</text>
+			<text>'Продаёт %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1716,7 +1716,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting, no stations will buy: %s'</text>
+			<text>'Ожидает, отсутствуют станции для покупки: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -3394,7 +3394,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting, no stations will sell: %s'</text>
+			<text>'Ожидает, отсутствуют станции для продажи: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4230,7 +4230,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Returning home'</text>
+			<text>'Возвращаюсь домой'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4350,7 +4350,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Sorting dock wares'</text>
+			<text>'Сортировка товара'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4406,7 +4406,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Agent paused'</text>
+			<text>'Агент на паузе'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4524,7 +4524,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Sorting dock wares'</text>
+			<text>'Сортировка товара'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4601,7 +4601,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for wares to buy'</text>
+			<text>'Ожидание товара для покупки'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -4650,7 +4650,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for wares to sell'</text>
+			<text>'Ожидание товара для продажи'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -7209,7 +7209,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="-260" />
 					<sval type="int" val="5" />
-					<sval type="string" val="dock agent sell" />
+					<sval type="string" val="агент продаёт" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
@@ -7298,7 +7298,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="-101" />
 					<sval type="int" val="5" />
-					<sval type="string" val="dock agent sell" />
+					<sval type="string" val="агент продаёт" />
 					<sval type="int" val="5" />
 					<sval type="string" val="any" />
 					<sval type="int" val="131074" />
@@ -7319,7 +7319,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Selling %s" />
+					<sval type="string" val="Продаёт %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="23" />
 					<sval type="int" val="0" />
@@ -7405,7 +7405,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting, no stations will buy: %s" />
+					<sval type="string" val="Ожидает, отсутствуют станции для покупки: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="23" />
 					<sval type="int" val="0" />
@@ -8600,7 +8600,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting, no stations will sell: %s" />
+					<sval type="string" val="Ожидает, отсутствуют станции для продажи: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="23" />
 					<sval type="int" val="0" />
@@ -9234,7 +9234,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Returning home" />
+					<sval type="string" val="Возвращаюсь домой" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9302,7 +9302,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sorting dock wares" />
+					<sval type="string" val="Сортировка товара" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9325,7 +9325,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Agent paused" />
+					<sval type="string" val="Агент на паузе" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9397,7 +9397,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sorting dock wares" />
+					<sval type="string" val="Сортировка товара" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9442,7 +9442,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for wares to buy" />
+					<sval type="string" val="Ожидание товара для покупки" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -9474,7 +9474,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for wares to sell" />
+					<sval type="string" val="Ожидание товара для продажи" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />

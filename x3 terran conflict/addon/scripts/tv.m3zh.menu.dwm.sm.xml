@@ -467,7 +467,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Administration'</text>
+			<text>'Администрация'</text>
 		</line>
 		<line linenr="061" indent="&#160;">
 			<var>$sections.main</var>
@@ -477,7 +477,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Factory'</text>
+			<text>'Завод'</text>
 		</line>
 		<line linenr="062" indent="&#160;">
 			<var>$sections.main</var>
@@ -487,7 +487,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Hangar'</text>
+			<text>'Ангар'</text>
 		</line>
 		<line linenr="063" indent="&#160;">
 			<var>$sections.main</var>
@@ -497,7 +497,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Logistics'</text>
+			<text>'Снабжение'</text>
 		</line>
 		<line linenr="064" indent="&#160;">
 			<var>$sections.main</var>
@@ -507,7 +507,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Recycling'</text>
+			<text>'Утилизация'</text>
 		</line>
 		<line linenr="065" indent="&#160;">
 			<var>$sections.main.hangar</var>
@@ -566,7 +566,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Perks'</text>
+			<text>'Перки'</text>
 		</line>
 		<line linenr="072" indent="&#160;">
 			<var>$sections.food.perks</var>
@@ -597,7 +597,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Agents'</text>
+			<text>'Агенты'</text>
 		</line>
 		<line linenr="075" indent="&#160;">
 			<var>$sections.logistics</var>
@@ -607,7 +607,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Traders'</text>
+			<text>'Торговцы'</text>
 		</line>
 		<line linenr="076" indent="&#160;">
 			<var>$sections.logistics</var>
@@ -617,7 +617,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Stock'</text>
+			<text>'Склад'</text>
 		</line>
 		<line linenr="077" indent="&#160;">
 			<var>$sections.logistics.jobs</var>
@@ -662,7 +662,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Laser'</text>
+			<text>'Лазер'</text>
 		</line>
 		<line linenr="082" indent="&#160;">
 			<var>$sections.production</var>
@@ -672,7 +672,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Missile'</text>
+			<text>'Ракета'</text>
 		</line>
 		<line linenr="083" indent="&#160;&#160;">
 			<var>$sections.production</var>
@@ -682,7 +682,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shield'</text>
+			<text>'Щит'</text>
 		</line>
 		<line linenr="084" indent="&#160;&#160;">
 			<var>$sections.production</var>
@@ -692,7 +692,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 		</line>
 		<line linenr="085" indent="&#160;">
 			<var>$sections.production</var>
@@ -702,7 +702,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Station'</text>
+			<text>'Станция'</text>
 		</line>
 		<line linenr="086" indent="&#160;">
 			<var>$sections.production.laser</var>
@@ -1643,7 +1643,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Faster research'</text>
+			<text>'Ускорение исследований'</text>
 		</line>
 		<line linenr="192" indent="&#160;&#160;">
 			<var>$research.f</var>
@@ -1666,7 +1666,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Station support in '</text>
+			<text>'Построено станций в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1690,7 +1690,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' - Max. population: '</text>
+			<text>' - Макс. Населения: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1698,7 +1698,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' - Research rate: '</text>
+			<text>' - Скорость исследования: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1978,7 +1978,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Race: '</text>
+			<text>'Раса: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2058,7 +2058,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Deadly Disease'</text>
+			<text>'Смертельная болезнь'</text>
 		</line>
 		<line linenr="225" indent="&#160;&#160;&#160;">
 			<var>$naturalGrowth</var>
@@ -2121,7 +2121,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'No food consumption'</text>
+			<text>'Не требуется пища'</text>
 		</line>
 		<line linenr="230" indent="&#160;&#160;">
 			<var>$naturalGrowth</var>
@@ -2180,7 +2180,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'People in this Outpost: '</text>
+			<text>'Население на этом Форпосте: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2222,7 +2222,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' every '</text>
+			<text>' каждые '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2230,7 +2230,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' minutes)'</text>
+			<text>' мин)'</text>
 		</line>
 		<line linenr="238" indent="&#160;&#160;&#160;">
 			<text>add</text>
@@ -2272,7 +2272,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'No food consumption'</text>
+			<text>'Не требуется пища'</text>
 		</line>
 		<line linenr="240" indent="&#160;&#160;&#160;" interruptable="@">
 			<text>if</text>
@@ -2290,14 +2290,14 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Double food consumption'</text>
+			<text>'Двойное потребление пищи'</text>
 		</line>
 		<line linenr="241" indent="&#160;&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost requires '</text>
+			<text>'Этому Форпосту требуется еда '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2305,7 +2305,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' to grow  ('</text>
+			<text>' для роста населения  ('</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2313,7 +2313,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' in stock.  Double consumption!).'</text>
+			<text>' на складе.  Двойное потребление!).'</text>
 		</line>
 		<line linenr="242" indent="&#160;&#160;">
 			<text>else</text>
@@ -2323,7 +2323,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost requires '</text>
+			<text>'Этому Форпосту требуется еда '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2331,7 +2331,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' to grow  ('</text>
+			<text>' для роста населения  ('</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2339,7 +2339,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' in stock).'</text>
+			<text>' на складе).'</text>
 		</line>
 		<line linenr="244" indent="&#160;&#160;&#160;">
 			<text>end</text>
@@ -2403,7 +2403,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Solar panels'</text>
+			<text>'Солнечные панели'</text>
 		</line>
 		<line linenr="251" indent="&#160;&#160;" interruptable="@">
 			<var>$ecell</var>
@@ -2445,7 +2445,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost produces '</text>
+			<text>'Этот Форпост производит '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2453,7 +2453,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Energy Cells at each consumption cycle.'</text>
+			<text>' Батареек за цикл.'</text>
 		</line>
 		<line linenr="254" indent="&#160;&#160;&#160;&#160;&#160;">
 			<text>add</text>
@@ -2496,7 +2496,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Space Weed manufacture'</text>
+			<text>'Производство космотравки'</text>
 		</line>
 		<line linenr="257" indent="&#160;&#160;&#160;&#160;" interruptable="@">
 			<var>$spaceweed</var>
@@ -2534,7 +2534,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost produces '</text>
+			<text>'Этот Форпост производит '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2542,7 +2542,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Space Weed at each consumption cycle.'</text>
+			<text>' Космотравки за цикл.'</text>
 		</line>
 		<line linenr="260" indent="&#160;&#160;&#160;&#160;">
 			<text>add</text>
@@ -2588,7 +2588,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost produces Waste and '</text>
+			<text>'Этот Форпост производит Отходы и '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2596,7 +2596,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' at each consumption cycle.'</text>
+			<text>' за цикл.'</text>
 		</line>
 		<line linenr="264" indent="&#160;&#160;">
 			<text>add</text>
@@ -2636,7 +2636,7 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'Tax'</text>
+			<text>'Налог'</text>
 		</line>
 		<line linenr="266" indent="&#160;&#160;&#160;" interruptable="@">
 			<var>$tax</var>
@@ -2674,7 +2674,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'This Outpost produces '</text>
+			<text>'Этот Форпост производит '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2682,7 +2682,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' credits per hour.'</text>
+			<text>' кр. в час.'</text>
 		</line>
 		<line linenr="269" indent="&#160;&#160;&#160;">
 			<text>add</text>
@@ -2747,14 +2747,14 @@
 			<text> </text>
 			<text>argument1</text>
 			<text>=</text>
-			<text>'No food consumption'</text>
+			<text>'Не требуется пища'</text>
 		</line>
 		<line linenr="274" indent="&#160;">
 			<var>$t</var>
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'EMPTY - Bring '</text>
+			<text>'НЕТ ЕДЫ - Доставьте '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2762,7 +2762,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' to this Outpost to attract new people.'</text>
+			<text>' на этот Форпост для привлечения новых поселенцев.'</text>
 		</line>
 		<line linenr="275" indent="" interruptable="@">
 			<var>$t</var>
@@ -2825,7 +2825,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Starvation - Production stopped!'</text>
+			<text>'ГОЛОД - Производство остановлено!'</text>
 		</line>
 		<line linenr="280" indent="&#160;&#160;" interruptable="@">
 			<var>$t</var>
@@ -2991,7 +2991,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No Outpost found.'</text>
+			<text>'Форпост не найден.'</text>
 		</line>
 		<line linenr="294" indent="">
 			<text>end</text>
@@ -3027,7 +3027,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Outpost'</text>
+			<text>'Форпост'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -3065,7 +3065,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Section'</text>
+			<text>'Раздел'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -3121,7 +3121,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Subsection'</text>
+			<text>'Подраздел'</text>
 		</line>
 		<line linenr="304" indent="&#160;&#160;&#160;">
 			<text>do</text>
@@ -3151,7 +3151,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Logistics'</text>
+			<text>'Снабжение'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -3219,7 +3219,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Production Bay'</text>
+			<text>'Отсек производства'</text>
 		</line>
 		<line linenr="309" indent="&#160;&#160;&#160;">
 			<text>add</text>
@@ -3238,7 +3238,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Production Line'</text>
+			<text>'Производственная линия'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -4567,7 +4567,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Administration" />
+					<sval type="string" val="Администрация" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4576,7 +4576,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Factory" />
+					<sval type="string" val="Завод" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4585,7 +4585,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hangar" />
+					<sval type="string" val="Ангар" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4594,7 +4594,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Logistics" />
+					<sval type="string" val="Снабжение" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4603,7 +4603,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Recycling" />
+					<sval type="string" val="Утилизация" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -4663,7 +4663,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Perks" />
+					<sval type="string" val="Перки" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -4687,7 +4687,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Agents" />
+					<sval type="string" val="Агенты" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4696,7 +4696,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Traders" />
+					<sval type="string" val="Торговцы" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4705,7 +4705,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stock" />
+					<sval type="string" val="Склад" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -4747,7 +4747,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Laser" />
+					<sval type="string" val="Лазер" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4756,7 +4756,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missile" />
+					<sval type="string" val="Ракета" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4765,7 +4765,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield" />
+					<sval type="string" val="Щит" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4774,7 +4774,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -4783,7 +4783,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Station" />
+					<sval type="string" val="Станция" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -5483,7 +5483,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Faster research" />
+					<sval type="string" val="Ускорение исследований" />
 				</sval>
 				<sval type="array" size="19">
 					<sval type="int" val="104" />
@@ -5511,7 +5511,7 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="21" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Station support in " />
+					<sval type="string" val="Построено станций в секторе " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="14" />
 					<sval type="int" val="15" />
@@ -5533,7 +5533,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" - Max. population: " />
+					<sval type="string" val=" - Макс. Населения: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -5541,7 +5541,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" - Research rate: " />
+					<sval type="string" val=" - Скорость исследования: " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -5723,7 +5723,7 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Race: " />
+					<sval type="string" val="Раса: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="13" />
 					<sval type="int" val="15" />
@@ -5765,7 +5765,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="66" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Deadly Disease" />
+					<sval type="string" val="Смертельная болезнь" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -5826,7 +5826,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No food consumption" />
+					<sval type="string" val="Не требуется пища" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -5878,7 +5878,7 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="People in this Outpost: " />
+					<sval type="string" val="Население на этом Форпосте: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="56" />
 					<sval type="int" val="15" />
@@ -5930,7 +5930,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" every " />
+					<sval type="string" val=" каждые " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -5938,7 +5938,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" minutes)" />
+					<sval type="string" val=" мин)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="11" />
@@ -5969,7 +5969,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No food consumption" />
+					<sval type="string" val="Не требуется пища" />
 				</sval>
 				<sval type="array" size="8">
 					<sval type="int" val="102" />
@@ -5979,20 +5979,20 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Double food consumption" />
+					<sval type="string" val="Двойное потребление пищи" />
 				</sval>
 				<sval type="array" size="31">
 					<sval type="int" val="104" />
 					<sval type="int" val="55" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost requires " />
+					<sval type="string" val="Этому Форпосту требуется еда " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="62" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" to grow  (" />
+					<sval type="string" val=" для роста населения  (" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -6000,7 +6000,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" in stock.  Double consumption!)." />
+					<sval type="string" val=" на складе.  Двойное потребление!)." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="9" />
@@ -6023,13 +6023,13 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost requires " />
+					<sval type="string" val="Этому Форпосту требуется еда " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="62" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" to grow  (" />
+					<sval type="string" val=" для роста населения  (" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -6037,7 +6037,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" in stock)." />
+					<sval type="string" val=" на складе)." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="9" />
@@ -6071,7 +6071,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Solar panels" />
+					<sval type="string" val="Солнечные панели" />
 				</sval>
 				<sval type="array" size="8">
 					<sval type="int" val="102" />
@@ -6094,13 +6094,13 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost produces " />
+					<sval type="string" val="Этот Форпост производит " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="71" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Energy Cells at each consumption cycle." />
+					<sval type="string" val=" Батареек за цикл." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -6125,7 +6125,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Space Weed manufacture" />
+					<sval type="string" val="Производство космотравки" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="102" />
@@ -6146,13 +6146,13 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost produces " />
+					<sval type="string" val="Этот Форпост производит " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="73" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Space Weed at each consumption cycle." />
+					<sval type="string" val=" Космотравки за цикл." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -6198,13 +6198,13 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost produces Waste and " />
+					<sval type="string" val="Этот Форпост производит Отходы и " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="65" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" at each consumption cycle." />
+					<sval type="string" val=" за цикл." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -6229,7 +6229,7 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Tax" />
+					<sval type="string" val="Налог" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="102" />
@@ -6250,13 +6250,13 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Outpost produces " />
+					<sval type="string" val="Этот Форпост производит " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="75" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" credits per hour." />
+					<sval type="string" val=" кр. в час." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -6312,20 +6312,20 @@
 					<sval type="int" val="10" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No food consumption" />
+					<sval type="string" val="Не требуется пища" />
 				</sval>
 				<sval type="array" size="19">
 					<sval type="int" val="104" />
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="EMPTY - Bring " />
+					<sval type="string" val="НЕТ ЕДЫ - Доставьте " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="62" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" to this Outpost to attract new people." />
+					<sval type="string" val=" на этот Форпост для привлечения новых поселенцев." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -6372,7 +6372,7 @@
 					<sval type="int" val="55" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Starvation - Production stopped!" />
+					<sval type="string" val="ГОЛОД - Производство остановлено!" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -6447,7 +6447,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No Outpost found." />
+					<sval type="string" val="Форпост не найден." />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -6470,7 +6470,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Outpost" />
+					<sval type="string" val="Форпост" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="19" />
 					<sval type="int" val="131074" />
@@ -6483,7 +6483,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Section" />
+					<sval type="string" val="Раздел" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="24" />
 					<sval type="int" val="131074" />
@@ -6523,7 +6523,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Subsection" />
+					<sval type="string" val="Подраздел" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -6545,7 +6545,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Logistics" />
+					<sval type="string" val="Снабжение" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="131074" />
@@ -6587,14 +6587,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Production Bay" />
+					<sval type="string" val="Отсек производства" />
 				</sval>
 				<sval type="array" size="11">
 					<sval type="int" val="1527" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Production Line" />
+					<sval type="string" val="Производственная линия" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="36" />
 					<sval type="int" val="131074" />

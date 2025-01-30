@@ -445,7 +445,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Mining'</text>
+			<text>'Добыча'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2155,7 +2155,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mining" />
+					<sval type="string" val="Добыча" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />

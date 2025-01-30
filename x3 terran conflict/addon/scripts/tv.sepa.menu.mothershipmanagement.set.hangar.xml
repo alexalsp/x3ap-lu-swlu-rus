@@ -220,7 +220,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Not enough '</text>
+			<text>'Недостаточно '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -408,7 +408,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship repaired'</text>
+			<text>'Корабль отремонтирован'</text>
 		</line>
 		<line linenr="041" indent="">
 			<text>display</text>
@@ -1933,7 +1933,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="13" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Not enough " />
+					<sval type="string" val="Недостаточно " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="4" />
 					<sval type="int" val="15" />
@@ -2093,7 +2093,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship repaired" />
+					<sval type="string" val="Корабль отремонтирован" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

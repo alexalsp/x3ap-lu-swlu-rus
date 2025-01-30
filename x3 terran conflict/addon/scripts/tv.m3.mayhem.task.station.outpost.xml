@@ -1223,7 +1223,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Deadly Disease'</text>
+			<text>'Смертельная болезнь'</text>
 		</line>
 		<line linenr="123" indent="&#160;&#160;&#160;">
 			<var>$eventTypes</var>
@@ -1233,7 +1233,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Kernel Bug'</text>
+			<text>'Ошибка ядра'</text>
 		</line>
 		<line linenr="124" indent="&#160;&#160;&#160;&#160;">
 			<var>$eventTypes</var>
@@ -1243,7 +1243,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Major Setback'</text>
+			<text>'Крупная неудача'</text>
 		</line>
 		<line linenr="125" indent="&#160;&#160;&#160;&#160;&#160;">
 			<var>$eventTypes</var>
@@ -1253,7 +1253,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Storage Fire'</text>
+			<text>'Пожар в хранилище'</text>
 		</line>
 		<line linenr="126" indent="&#160;&#160;&#160;&#160;&#160;">
 			<var>$eventTypes</var>
@@ -1263,7 +1263,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Terraformer Virus'</text>
+			<text>'Вирус Терраформера'</text>
 		</line>
 		<line linenr="127" indent="&#160;&#160;&#160;&#160;&#160;" interruptable="@">
 			<var>$eventType</var>
@@ -1301,7 +1301,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Sickbay'</text>
+			<text>'Медотсек'</text>
 		</line>
 		<line linenr="129" indent="&#160;&#160;&#160;&#160;">
 			<text>if</text>
@@ -1310,7 +1310,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Deadly Disease'</text>
+			<text>'Смертельная болезнь'</text>
 		</line>
 		<line linenr="130" indent="&#160;&#160;&#160;">
 			<comment>* Would be unfair to pick another event instead of this one, so we just postpone.</comment>
@@ -1406,7 +1406,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Insurance policy'</text>
+			<text>'Страховка'</text>
 		</line>
 		<line linenr="140" indent="&#160;&#160;">
 			<text>endsub</text>
@@ -1579,7 +1579,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'unfortunate event'</text>
+			<text>'несчастный случай'</text>
 			<text> </text>
 			<text>color</text>
 			<text>=</text>
@@ -1590,7 +1590,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'An '</text>
+			<text>'Произошёл '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1598,7 +1598,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' has started at your Outpost in '</text>
+			<text>' на вашем форпосте в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1767,7 +1767,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Storage Fire'</text>
+			<text>'Пожар в хранилище'</text>
 		</line>
 		<line linenr="167" indent="&#160;&#160;&#160;">
 			<comment>* This is the only event that is managed here.</comment>
@@ -1919,7 +1919,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'The situation in your Outpost of '</text>
+			<text>'Обстановка на вашем Форпосте в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1927,7 +1927,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' is back to normal.'</text>
+			<text>' нормализовалась.'</text>
 		</line>
 		<line linenr="181" indent="&#160;" interruptable="@">
 			<text>=</text>
@@ -2751,7 +2751,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Tax'</text>
+			<text>'Налог'</text>
 		</line>
 		<line linenr="268" indent="&#160;&#160;&#160;">
 			<text>endsub</text>
@@ -2848,7 +2848,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Solar panels'</text>
+			<text>'Солнечные панели'</text>
 		</line>
 		<line linenr="279" indent="&#160;&#160;">
 			<text>endsub</text>
@@ -2964,7 +2964,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Space Weed manufacture'</text>
+			<text>'Производство космотравки'</text>
 		</line>
 		<line linenr="290" indent="&#160;&#160;">
 			<text>endsub</text>
@@ -3622,7 +3622,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'No food consumption'</text>
+			<text>'Не требуется пища'</text>
 		</line>
 		<line linenr="352" indent="&#160;&#160;&#160;">
 			<var>$eventOn</var>
@@ -3896,7 +3896,7 @@
 			<text> </text>
 			<text>!=</text>
 			<text> </text>
-			<text>'Deadly Disease'</text>
+			<text>'Смертельная болезнь'</text>
 			<text> </text>
 			<text>AND</text>
 			<text> </text>
@@ -4197,7 +4197,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Your people in '</text>
+			<text>'Ваше население в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -4205,7 +4205,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' are starving!'</text>
+			<text>' голодает!'</text>
 		</line>
 		<line linenr="394" indent="&#160;&#160;&#160;" interruptable="@">
 			<var>$t</var>
@@ -4295,7 +4295,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Deadly Disease'</text>
+			<text>'Смертельная болезнь'</text>
 		</line>
 		<line linenr="402" indent="&#160;&#160;&#160;">
 			<var>$diseased</var>
@@ -4578,7 +4578,7 @@
 			<text> </text>
 			<text>to</text>
 			<text> </text>
-			<text>'Mining drone'</text>
+			<text>'Добывающий дрон'</text>
 		</line>
 		<line linenr="431" indent="&#160;&#160;&#160;&#160;">
 			<var>[THIS]</var>
@@ -6998,7 +6998,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'started'</text>
+			<text>'запустил'</text>
 			<text> </text>
 			<text>color</text>
 			<text>=</text>
@@ -7009,7 +7009,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Your Outpost in '</text>
+			<text>'Ваш Форпост в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7017,7 +7017,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' has '</text>
+			<text>' '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7025,7 +7025,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' the construction of '</text>
+			<text>' производство '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7074,7 +7074,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Full)'</text>
+			<text>' Полный)'</text>
 		</line>
 		<line linenr="634" indent="&#160;&#160;&#160;&#160;&#160;&#160;&#160;">
 			<text>else</text>
@@ -7180,7 +7180,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Major Setback'</text>
+			<text>'Крупная неудача'</text>
 		</line>
 		<line linenr="647" indent="&#160;&#160;&#160;&#160;">
 			<var>$buildingProgressFactor</var>
@@ -7390,7 +7390,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'finished'</text>
+			<text>'завершил'</text>
 			<text> </text>
 			<text>color</text>
 			<text>=</text>
@@ -7401,7 +7401,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Your Outpost in '</text>
+			<text>'Ваш Форпост в секторе '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7409,7 +7409,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' has '</text>
+			<text>' '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7417,7 +7417,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' the construction of '</text>
+			<text>' производство '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -7466,7 +7466,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' Full)'</text>
+			<text>' Полный)'</text>
 		</line>
 		<line linenr="665" indent="&#160;&#160;&#160;&#160;&#160;">
 			<text>else</text>
@@ -7872,7 +7872,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Terraformer Virus'</text>
+			<text>'Вирус Терраформера'</text>
 		</line>
 		<line linenr="701" indent="&#160;&#160;&#160;">
 			<var>$ship</var>
@@ -8534,7 +8534,7 @@
 			<text> </text>
 			<text>perk</text>
 			<text>=</text>
-			<text>'Advanced engineering'</text>
+			<text>'Передовые технологии'</text>
 		</line>
 		<line linenr="764" indent="">
 			<var>$ship</var>
@@ -9592,7 +9592,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Deadly Disease" />
+					<sval type="string" val="Смертельная болезнь" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9601,7 +9601,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Kernel Bug" />
+					<sval type="string" val="Ошибка ядра" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9610,7 +9610,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Major Setback" />
+					<sval type="string" val="Крупная неудача" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9619,7 +9619,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Storage Fire" />
+					<sval type="string" val="Пожар в хранилище" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -9628,7 +9628,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="4" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Terraformer Virus" />
+					<sval type="string" val="Вирус Терраформера" />
 				</sval>
 				<sval type="array" size="8">
 					<sval type="int" val="102" />
@@ -9648,7 +9648,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Sickbay" />
+					<sval type="string" val="Медотсек" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -9657,7 +9657,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="35" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Deadly Disease" />
+					<sval type="string" val="Смертельная болезнь" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -9744,7 +9744,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Insurance policy" />
+					<sval type="string" val="Страховка" />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -9866,7 +9866,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="unfortunate event" />
+					<sval type="string" val="несчастный случай" />
 					<sval type="int" val="5" />
 					<sval type="string" val="r" />
 				</sval>
@@ -9875,13 +9875,13 @@
 					<sval type="int" val="40" />
 					<sval type="int" val="9" />
 					<sval type="int" val="5" />
-					<sval type="string" val="An " />
+					<sval type="string" val="Произошёл " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="40" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" has started at your Outpost in " />
+					<sval type="string" val=" на вашем форпосте в секторе " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131075" />
@@ -10019,7 +10019,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="28" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Storage Fire" />
+					<sval type="string" val="Пожар в хранилище" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -10122,13 +10122,13 @@
 					<sval type="int" val="40" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="The situation in your Outpost of " />
+					<sval type="string" val="Обстановка на вашем Форпосте в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" is back to normal." />
+					<sval type="string" val=" нормализовалась." />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -10726,7 +10726,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Tax" />
+					<sval type="string" val="Налог" />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -10797,7 +10797,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Solar panels" />
+					<sval type="string" val="Солнечные панели" />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -10877,7 +10877,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Space Weed manufacture" />
+					<sval type="string" val="Производство космотравки" />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />
@@ -11391,7 +11391,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No food consumption" />
+					<sval type="string" val="Не требуется пища" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -11590,7 +11590,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="28" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Deadly Disease" />
+					<sval type="string" val="Смертельная болезнь" />
 					<sval type="int" val="15" />
 					<sval type="int" val="1" />
 					<sval type="int" val="131074" />
@@ -11880,13 +11880,13 @@
 					<sval type="int" val="40" />
 					<sval type="int" val="5" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Your people in " />
+					<sval type="string" val="Ваше население в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" are starving!" />
+					<sval type="string" val=" голодает!" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
@@ -11938,7 +11938,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="28" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Deadly Disease" />
+					<sval type="string" val="Смертельная болезнь" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -12133,7 +12133,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="89" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mining drone" />
+					<sval type="string" val="Добывающий дрон" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="155" />
@@ -13959,7 +13959,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="started" />
+					<sval type="string" val="запустил" />
 					<sval type="int" val="5" />
 					<sval type="string" val="c" />
 				</sval>
@@ -13968,13 +13968,13 @@
 					<sval type="int" val="40" />
 					<sval type="int" val="15" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Your Outpost in " />
+					<sval type="string" val="Ваш Форпост в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" has " />
+					<sval type="string" val=" " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -13982,7 +13982,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" the construction of " />
+					<sval type="string" val=" производство " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -14059,7 +14059,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Full)" />
+					<sval type="string" val=" Полный)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -14140,7 +14140,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="28" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Major Setback" />
+					<sval type="string" val="Крупная неудача" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -14378,7 +14378,7 @@
 					<sval type="int" val="12" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="finished" />
+					<sval type="string" val="завершил" />
 					<sval type="int" val="5" />
 					<sval type="string" val="g" />
 				</sval>
@@ -14387,13 +14387,13 @@
 					<sval type="int" val="40" />
 					<sval type="int" val="15" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Your Outpost in " />
+					<sval type="string" val="Ваш Форпост в секторе " />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" has " />
+					<sval type="string" val=" " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -14401,7 +14401,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" the construction of " />
+					<sval type="string" val=" производство " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -14478,7 +14478,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" Full)" />
+					<sval type="string" val=" Полный)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -14744,7 +14744,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="28" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Terraformer Virus" />
+					<sval type="string" val="Вирус Терраформера" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -15221,7 +15221,7 @@
 					<sval type="int" val="1" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Advanced engineering" />
+					<sval type="string" val="Передовые технологии" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="155" />

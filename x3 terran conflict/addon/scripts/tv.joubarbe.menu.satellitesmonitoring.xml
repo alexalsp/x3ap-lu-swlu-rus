@@ -113,7 +113,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Collecting satellites data...'</text>
+			<text>'Считываю данные со спутников...'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -815,7 +815,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Collecting satellites data..." />
+					<sval type="string" val="Считываю данные со спутников..." />
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="4" />

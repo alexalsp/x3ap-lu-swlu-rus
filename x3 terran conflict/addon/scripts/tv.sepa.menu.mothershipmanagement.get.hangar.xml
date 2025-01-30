@@ -38,7 +38,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Customize'</text>
+			<text>'Настройка'</text>
 		</line>
 		<line linenr="005" indent="">
 			<var>$args</var>
@@ -118,7 +118,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Upgrade ship'</text>
+			<text>'Модернизация корабля'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -203,7 +203,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Paint ship'</text>
+			<text>'Покраска корабля'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -231,7 +231,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Repair'</text>
+			<text>'Ремонт'</text>
 		</line>
 		<line linenr="015" indent="">
 			<var>$t</var>
@@ -425,7 +425,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Damaged Ship'</text>
+			<text>'Повреждённый корабль'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1638,7 +1638,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No damaged ships'</text>
+			<text>'Нет повреждённых кораблей'</text>
 		</line>
 		<line linenr="098" indent="&#160;" />
 		<line linenr="099" indent="&#160;">
@@ -1659,7 +1659,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Template'</text>
+			<text>'Шаблон'</text>
 		</line>
 		<line linenr="100" indent="&#160;">
 			<var>$args</var>
@@ -1773,7 +1773,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Template outfit'</text>
+			<text>'Оснащение по шаблону'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
@@ -1821,7 +1821,7 @@
 			<var>$tv.text</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Template outfit'</text>
+			<text>'Оснащение по шаблону'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -2095,7 +2095,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>') is waiting to be automatically outfitted with template '</text>
+			<text>') ожидает автоматического оснащения по шаблону '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2103,7 +2103,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' - Click to cancel'</text>
+			<text>' - Нажмите для отмены'</text>
 		</line>
 		<line linenr="135" indent="&#160;">
 			<text>add</text>
@@ -3510,7 +3510,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Customize" />
+					<sval type="string" val="Настройка" />
 				</sval>
 				<sval type="array" size="12">
 					<sval type="int" val="1415" />
@@ -3539,7 +3539,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Upgrade ship" />
+					<sval type="string" val="Модернизация корабля" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="2" />
 				</sval>
@@ -3570,7 +3570,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Paint ship" />
+					<sval type="string" val="Покраска корабля" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="2" />
 				</sval>
@@ -3579,7 +3579,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Repair" />
+					<sval type="string" val="Ремонт" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="128" />
@@ -3683,7 +3683,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Damaged Ship" />
+					<sval type="string" val="Повреждённый корабль" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -4330,14 +4330,14 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No damaged ships" />
+					<sval type="string" val="Нет повреждённых кораблей" />
 				</sval>
 				<sval type="array" size="5">
 					<sval type="int" val="1448" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template" />
+					<sval type="string" val="Шаблон" />
 				</sval>
 				<sval type="array" size="12">
 					<sval type="int" val="1415" />
@@ -4387,7 +4387,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template outfit" />
+					<sval type="string" val="Оснащение по шаблону" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="2" />
 				</sval>
@@ -4412,7 +4412,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="34" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Template outfit" />
+					<sval type="string" val="Оснащение по шаблону" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -4584,7 +4584,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=") is waiting to be automatically outfitted with template " />
+					<sval type="string" val=") ожидает автоматического оснащения по шаблону " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -4592,7 +4592,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" - Click to cancel" />
+					<sval type="string" val=" - Нажмите для отмены" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="11" />

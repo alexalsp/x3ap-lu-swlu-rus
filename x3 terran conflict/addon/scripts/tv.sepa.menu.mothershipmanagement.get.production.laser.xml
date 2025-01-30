@@ -279,7 +279,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Light Laser'</text>
+			<text>'Легкий лазер'</text>
 		</line>
 		<line linenr="028" indent="&#160;">
 			<var>$name.meatsteaks</var>
@@ -404,7 +404,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Medium Laser'</text>
+			<text>'Средний лазер'</text>
 		</line>
 		<line linenr="036" indent="&#160;">
 			<var>$name.bofu</var>
@@ -529,7 +529,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Heavy Laser'</text>
+			<text>'Тяжелый лазер'</text>
 		</line>
 		<line linenr="044" indent="&#160;">
 			<var>$name.sojahusks</var>
@@ -1745,7 +1745,7 @@
 					<sval type="int" val="21" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Light Laser" />
+					<sval type="string" val="Легкий лазер" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1838,7 +1838,7 @@
 					<sval type="int" val="21" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Medium Laser" />
+					<sval type="string" val="Средний лазер" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1931,7 +1931,7 @@
 					<sval type="int" val="21" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Heavy Laser" />
+					<sval type="string" val="Тяжелый лазер" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

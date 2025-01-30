@@ -166,7 +166,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Alaankwa Corporation'</text>
+			<text>'Корпорация Алаанква'</text>
 		</line>
 		<line linenr="025" indent="&#160;">
 			<text>set</text>
@@ -1134,7 +1134,7 @@
 			<text> </text>
 			<text>to</text>
 			<text> </text>
-			<text>'Mothership'</text>
+			<text>'Материнский корабль'</text>
 		</line>
 		<line linenr="136" indent="">
 			<var>$homebase</var>
@@ -1304,7 +1304,7 @@
 			<text> </text>
 			<text>to</text>
 			<text> </text>
-			<text>'Mobile Mining'</text>
+			<text>'Мобильная добыча'</text>
 		</line>
 		<line linenr="158" indent="&#160;&#160;">
 			<var>$homebase</var>
@@ -2095,7 +2095,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Alaankwa Corporation" />
+					<sval type="string" val="Корпорация Алаанква" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -2675,7 +2675,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership" />
+					<sval type="string" val="Материнский корабль" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -2803,7 +2803,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="20" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mobile Mining" />
+					<sval type="string" val="Мобильная добыча" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />

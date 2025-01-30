@@ -481,7 +481,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Not enough '</text>
+			<text>'Недостаточно '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -2325,7 +2325,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Stations &amp; Ships'</text>
+			<text>'Станции и Корабли'</text>
 		</line>
 		<line linenr="187" indent="&#160;&#160;&#160;">
 			<var>$allStations</var>
@@ -2391,11 +2391,11 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'This Mothership'</text>
+			<text>'Этот материнский корабль'</text>
 			<text> </text>
 			<text>returnvalue</text>
 			<text>=</text>
-			<text>'None'</text>
+			<text>'Пусто'</text>
 		</line>
 		<line linenr="191" indent="&#160;">
 			<text>add</text>
@@ -2428,7 +2428,7 @@
 			<var>104</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Stations'</text>
+			<text>'Станции'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -2623,7 +2623,7 @@
 			<var>104</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Ships'</text>
+			<text>'Корабли'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -2784,7 +2784,7 @@
 			<var>104</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Fleets'</text>
+			<text>'Флоты'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -2936,7 +2936,7 @@
 			<var>104</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Wings'</text>
+			<text>'Звенья'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -3195,7 +3195,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Stations &amp; Ships'</text>
+			<text>'Станции и Корабли'</text>
 			<text> </text>
 			<text>description</text>
 			<text>=</text>
@@ -3246,7 +3246,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'None'</text>
+			<text>'Пусто'</text>
 		</line>
 		<line linenr="255" indent="">
 			<var>$return</var>
@@ -3789,7 +3789,7 @@
 					<sval type="int" val="28" />
 					<sval type="int" val="13" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Not enough " />
+					<sval type="string" val="Недостаточно " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="15" />
@@ -4960,7 +4960,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="77" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stations &amp; Ships" />
+					<sval type="string" val="Станции и Корабли" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="1069" />
@@ -4987,9 +4987,9 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="77" />
 					<sval type="int" val="5" />
-					<sval type="string" val="This Mothership" />
+					<sval type="string" val="Этот материнский корабль" />
 					<sval type="int" val="5" />
-					<sval type="string" val="None" />
+					<sval type="string" val="Пусто" />
 				</sval>
 				<sval type="array" size="3">
 					<sval type="int" val="1522" />
@@ -5004,7 +5004,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stations" />
+					<sval type="string" val="Станции" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -5114,7 +5114,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ships" />
+					<sval type="string" val="Корабли" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -5204,7 +5204,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Fleets" />
+					<sval type="string" val="Флоты" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -5285,7 +5285,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="104" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Wings" />
+					<sval type="string" val="Звенья" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -5448,7 +5448,7 @@
 					<sval type="int" val="1230" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Stations &amp; Ships" />
+					<sval type="string" val="Станции и Корабли" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="131074" />
@@ -5484,7 +5484,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="None" />
+					<sval type="string" val="Пусто" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />

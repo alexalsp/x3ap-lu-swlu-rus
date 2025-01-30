@@ -184,7 +184,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Alaankwa Corsairs'</text>
+			<text>'Корсары Алаанква'</text>
 		</line>
 		<line linenr="025" indent="&#160;">
 			<text>set</text>
@@ -1427,7 +1427,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Alaankwa Corsairs" />
+					<sval type="string" val="Корсары Алаанква" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />

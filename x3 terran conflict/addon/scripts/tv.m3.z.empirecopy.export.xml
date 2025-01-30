@@ -142,7 +142,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Export is unavailable within 5 minutes of a new game'</text>
+			<text>'Экспорт данных не будет доступен в течении 5 минут после начала новой игры.'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -183,7 +183,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Exporting game info...'</text>
+			<text>'Экспортирование игровых данных...'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -213,7 +213,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'If this process takes more than 1 minute, please deactivate your antivirus (Windows Defender included)'</text>
+			<text>'Если этот процесс занимает более 1 минуты, отключите ваш антивирус (в том числе Windows Defender).'</text>
 			<text> </text>
 			<text>duration</text>
 			<text>=</text>
@@ -820,10 +820,10 @@
 			<var>$PageOut</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Exported Empire'</text>
+			<text>'Империя экспортирована'</text>
 			<text>,</text>
 			<text> </text>
-			<text>'Data for Importing Empire'</text>
+			<text>'Данные для экспорта империи'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -7672,7 +7672,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Exporting %s objects...'</text>
+			<text>'Экспортирование %s объектов...'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$AllObjectCount</var>
@@ -15011,7 +15011,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Export completed.  Do not save this game. Use New Game -&gt; Import to import your game.'</text>
+			<text>'Экспорт закончен. Не сохраняя игру, выйдете из неё. Используйте меню -&gt; Новая Игра -&gt; Импорт, в самом низу списка, для импорта сохранённых данных вашей игры в новую игру.'</text>
 			<text>,</text>
 			<text> </text>
 			<var>null</var>
@@ -15644,7 +15644,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export is unavailable within 5 minutes of a new game" />
+					<sval type="string" val="Экспорт данных не будет доступен в течении 5 минут после начала новой игры" />
 					<sval type="int" val="4" />
 					<sval type="int" val="50" />
 					<sval type="int" val="4" />
@@ -15660,7 +15660,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Exporting game info..." />
+					<sval type="string" val="Экспортирование игровых данных..." />
 					<sval type="int" val="4" />
 					<sval type="int" val="32" />
 					<sval type="int" val="4" />
@@ -15671,7 +15671,7 @@
 				<sval type="array" size="5">
 					<sval type="int" val="1418" />
 					<sval type="int" val="5" />
-					<sval type="string" val="If this process takes more than 1 minute, please deactivate your antivirus (Windows Defender included)" />
+					<sval type="string" val="Если этот процесс занимает более 1 минуты, отключите ваш антивирус (в том числе Windows Defender)." />
 					<sval type="int" val="4" />
 					<sval type="int" val="15000" />
 				</sval>
@@ -16290,9 +16290,9 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="55" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Exported Empire" />
+					<sval type="string" val="Империя экспортирована" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Data for Importing Empire" />
+					<sval type="string" val="Данные для экспорта империи" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -19920,7 +19920,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Exporting %s objects..." />
+					<sval type="string" val="Экспортирование %s объектов..." />
 					<sval type="int" val="131074" />
 					<sval type="int" val="88" />
 					<sval type="int" val="0" />
@@ -24237,7 +24237,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="56" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Export completed.  Do not save this game. Use New Game -&gt; Import to import your game." />
+					<sval type="string" val="Экспорт закончен. Не сохраняя игру, выйдете из неё. Используйте меню -&gt; Новая Игра -&gt; Импорт, в самом низу списка, для импорта сохранённых данных вашей игры в новую игру." />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />

@@ -556,7 +556,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Volunteer'</text>
+			<text>'Доброволец'</text>
 		</line>
 		<line linenr="068" indent="&#160;">
 			<var>$Script</var>
@@ -628,7 +628,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Volunteer'</text>
+			<text>'Доброволец'</text>
 		</line>
 		<line linenr="078" indent="&#160;">
 			<var>$Script</var>
@@ -2447,7 +2447,7 @@
 					<sval type="int" val="28" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Volunteer" />
+					<sval type="string" val="Доброволец" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -2514,7 +2514,7 @@
 					<sval type="int" val="28" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Volunteer" />
+					<sval type="string" val="Доброволец" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

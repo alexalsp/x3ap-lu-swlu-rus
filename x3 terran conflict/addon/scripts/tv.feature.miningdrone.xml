@@ -395,7 +395,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Unloading %s from %s'</text>
+			<text>'Загружаю %s с %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -639,7 +639,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1066,7 +1066,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1134,7 +1134,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Going to %s'</text>
+			<text>'Следую к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1761,7 +1761,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Unloading %s from %s" />
+					<sval type="string" val="Загружаю %s с %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -1912,7 +1912,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -2156,7 +2156,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="22" />
 					<sval type="int" val="0" />
@@ -2190,7 +2190,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Going to %s" />
+					<sval type="string" val="Следую к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />

@@ -271,7 +271,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Fleeing to %s'</text>
+			<text>'Убегает к %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -617,7 +617,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Fleeing to %s" />
+					<sval type="string" val="Убегает к %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="6" />
 					<sval type="int" val="0" />

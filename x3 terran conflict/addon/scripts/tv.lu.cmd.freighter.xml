@@ -343,7 +343,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Freighting %s'</text>
+			<text>'Грузоперевозка %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1987,7 +1987,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Waiting for load'</text>
+			<text>'Ожидание загрузки'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2103,7 +2103,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Returning home'</text>
+			<text>'Возвращаюсь домой'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -2493,7 +2493,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Freighting %s" />
+					<sval type="string" val="Грузоперевозка %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="0" />
@@ -3565,7 +3565,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Waiting for load" />
+					<sval type="string" val="Ожидание загрузки" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
 					<sval type="int" val="0" />
@@ -3627,7 +3627,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Returning home" />
+					<sval type="string" val="Возвращаюсь домой" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="5" />
 					<sval type="int" val="0" />

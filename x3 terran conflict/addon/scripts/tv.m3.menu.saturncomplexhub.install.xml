@@ -47,7 +47,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Hacking Station'</text>
+			<text>'Хакерская Станция'</text>
 		</line>
 		<line linenr="007" indent="">
 			<text>else</text>
@@ -57,7 +57,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Research Manager'</text>
+			<text>'Научный руководитель'</text>
 		</line>
 		<line linenr="009" indent="">
 			<text>end</text>
@@ -1347,7 +1347,7 @@
 					<sval type="int" val="2" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hacking Station" />
+					<sval type="string" val="Хакерская Станция" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1360,7 +1360,7 @@
 					<sval type="int" val="2" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Research Manager" />
+					<sval type="string" val="Научный руководитель" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

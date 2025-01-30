@@ -60,7 +60,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Mothership management'</text>
+			<text>'Управление материнским кораблем'</text>
 		</line>
 		<line linenr="011" indent="" />
 		<line linenr="012" indent="">
@@ -922,7 +922,7 @@
 					<sval type="int" val="2" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership management" />
+					<sval type="string" val="Управление материнским кораблем" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

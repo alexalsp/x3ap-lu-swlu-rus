@@ -62,7 +62,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Quickshuttle reaper: No shuttle set'</text>
+			<text>'Сборщик: На роль сборщика не назначено кораблей'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -164,7 +164,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Quickshuttle reaper: No crates to collect in sector'</text>
+			<text>'Сборщик: В секторе нет контейнеров для сбора'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -233,7 +233,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Quickshuttle reaper: Already active'</text>
+			<text>'Сборщик: Занят сбором контейнеров'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -332,7 +332,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttle reaper: No shuttle set" />
+					<sval type="string" val="Сборщик: На роль сборщика не назначено кораблей" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />
@@ -378,7 +378,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttle reaper: No crates to collect in sector" />
+					<sval type="string" val="Сборщик: В секторе нет контейнеров для сбора" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />
@@ -408,7 +408,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttle reaper: Already active" />
+					<sval type="string" val="Сборщик: Занят сбором контейнеров" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />

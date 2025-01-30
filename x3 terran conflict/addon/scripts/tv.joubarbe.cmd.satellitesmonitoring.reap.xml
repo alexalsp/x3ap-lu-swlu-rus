@@ -39,7 +39,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Quickshuttle reaper: No shuttle set'</text>
+			<text>'Сборщик: На роль сборщика не назначено кораблей'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -596,7 +596,7 @@
 			<var>2</var>
 			<text>,</text>
 			<text> </text>
-			<text>'Reap quickshuttle collected the following wares:'</text>
+			<text>'Сборщик собрал следующие товары:'</text>
 			<text>,</text>
 			<text> </text>
 			<var>[SECTOR]</var>
@@ -629,7 +629,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Reap quickshuttle collected nothing.'</text>
+			<text>'Сборщиком ничего не собрано.'</text>
 		</line>
 		<line linenr="058" indent="">
 			<text>end</text>
@@ -1113,7 +1113,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Quickshuttle reaper: No shuttle set" />
+					<sval type="string" val="Сборщик: На роль сборщика не назначено кораблей" />
 					<sval type="int" val="4" />
 					<sval type="int" val="29" />
 					<sval type="int" val="4" />
@@ -1410,7 +1410,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle collected the following wares:" />
+					<sval type="string" val="Сборщик собрал следующие товары:" />
 					<sval type="int" val="131075" />
 					<sval type="int" val="6" />
 					<sval type="int" val="0" />
@@ -1444,7 +1444,7 @@
 					<sval type="int" val="11" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Reap quickshuttle collected nothing." />
+					<sval type="string" val="Сборщиком ничего не собрано." />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>

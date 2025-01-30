@@ -473,7 +473,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Protect'</text>
+			<text>'Защищать'</text>
 		</line>
 		<line linenr="065" indent="&#160;&#160;">
 			<var>[THIS]</var>
@@ -491,7 +491,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Escort protect: %s'</text>
+			<text>'Эскорт защищать: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -607,7 +607,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Attack Same'</text>
+			<text>'Атаковать цель'</text>
 		</line>
 		<line linenr="071" indent="&#160;&#160;">
 			<var>[THIS]</var>
@@ -625,7 +625,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Escort attack same: %s'</text>
+			<text>'Эскорт атаковать цель: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -723,7 +723,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Attack Nearest'</text>
+			<text>'Атаковать ближайшего'</text>
 		</line>
 		<line linenr="077" indent="&#160;" />
 		<line linenr="078" indent="&#160;&#160;">
@@ -742,7 +742,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Escort attack near: %s'</text>
+			<text>'Эскорт атаковать ближайшего: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -840,7 +840,7 @@
 			<text> </text>
 			<text>==</text>
 			<text> </text>
-			<text>'Follow'</text>
+			<text>'Сопровождать'</text>
 		</line>
 		<line linenr="084" indent="&#160;" />
 		<line linenr="085" indent="&#160;">
@@ -859,7 +859,7 @@
 			<text>fmt</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Following: %s'</text>
+			<text>'Сопровождает: %s'</text>
 			<text> </text>
 			<text>,</text>
 			<text> </text>
@@ -1467,7 +1467,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Protect" />
+					<sval type="string" val="Защищать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -1480,7 +1480,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Escort protect: %s" />
+					<sval type="string" val="Эскорт защищать: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="0" />
@@ -1547,7 +1547,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Attack Same" />
+					<sval type="string" val="Атаковать цель" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -1560,7 +1560,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Escort attack same: %s" />
+					<sval type="string" val="Эскорт атаковать цель: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="0" />
@@ -1618,7 +1618,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Attack Nearest" />
+					<sval type="string" val="Атаковать ближайшего" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -1631,7 +1631,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Escort attack near: %s" />
+					<sval type="string" val="Эскорт атаковать ближайшего: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="0" />
@@ -1689,7 +1689,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Follow" />
+					<sval type="string" val="Сопровождать" />
 					<sval type="int" val="15" />
 					<sval type="int" val="0" />
 					<sval type="int" val="3" />
@@ -1702,7 +1702,7 @@
 					<sval type="int" val="131075" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Following: %s" />
+					<sval type="string" val="Сопровождает: %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="7" />
 					<sval type="int" val="0" />

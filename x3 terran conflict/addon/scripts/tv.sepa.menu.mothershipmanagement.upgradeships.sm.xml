@@ -667,7 +667,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Added'</text>
+			<text>'Добавлено'</text>
 		</line>
 		<line linenr="081" indent="&#160;&#160;&#160;&#160;">
 			<text>else</text>
@@ -677,7 +677,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Installed'</text>
+			<text>'Установлено'</text>
 		</line>
 		<line linenr="083" indent="&#160;&#160;&#160;">
 			<text>end</text>
@@ -737,7 +737,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Not enough resources'</text>
+			<text>'Недостаточно ресурсов'</text>
 			<text>,</text>
 			<text> </text>
 			<text>icon</text>
@@ -850,7 +850,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Available Extensions For '</text>
+			<text>'Доступные улучшения для '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -912,7 +912,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Extension'</text>
+			<text>'Улучшение'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -955,7 +955,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Red Crystal'</text>
+			<text>'Красный кристалл'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -998,7 +998,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Yellow Crystal'</text>
+			<text>'Жёлтый кристалл'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1041,7 +1041,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Blue Crystal'</text>
+			<text>'Синий  кристалл'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1084,7 +1084,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Green Crystal'</text>
+			<text>'Зелёный кристалл'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1127,7 +1127,7 @@
 			<text>text</text>
 			<text>=</text>
 			<text> </text>
-			<text>'Black Crystal'</text>
+			<text>'Чёрный кристалл'</text>
 			<text>,</text>
 			<text> </text>
 			<text>alignment</text>
@@ -1697,7 +1697,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' (can store '</text>
+			<text>' (можно хранить '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -1705,7 +1705,7 @@
 			<text> </text>
 			<text>+</text>
 			<text> </text>
-			<text>' more)'</text>
+			<text>' и больше)'</text>
 		</line>
 		<line linenr="186" indent="&#160;&#160;&#160;&#160;&#160;">
 			<var>$t</var>
@@ -2380,7 +2380,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Back'</text>
+			<text>'Назад'</text>
 			<text> </text>
 			<text>return</text>
 			<text> </text>
@@ -2411,7 +2411,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Docked Ships'</text>
+			<text>'Пристыкованные корабли'</text>
 		</line>
 		<line linenr="230" indent="&#160;&#160;&#160;">
 			<var>$allShips</var>
@@ -2767,7 +2767,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'No docked ships'</text>
+			<text>'Нет пристыкованных кораблей'</text>
 		</line>
 		<line linenr="262" indent="&#160;">
 			<text>end</text>
@@ -3537,7 +3537,7 @@
 					<sval type="int" val="32" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Added" />
+					<sval type="string" val="Добавлено" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -3550,7 +3550,7 @@
 					<sval type="int" val="32" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Installed" />
+					<sval type="string" val="Установлено" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -3581,7 +3581,7 @@
 				<sval type="array" size="9">
 					<sval type="int" val="1861" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Not enough resources" />
+					<sval type="string" val="Недостаточно ресурсов" />
 					<sval type="int" val="4" />
 					<sval type="int" val="66" />
 					<sval type="int" val="4" />
@@ -3670,7 +3670,7 @@
 					<sval type="int" val="32" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Available Extensions For " />
+					<sval type="string" val="Доступные улучшения для " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="9" />
 					<sval type="int" val="15" />
@@ -3699,7 +3699,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Extension" />
+					<sval type="string" val="Улучшение" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -3713,7 +3713,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Red Crystal" />
+					<sval type="string" val="Красный кристалл" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -3727,7 +3727,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Yellow Crystal" />
+					<sval type="string" val="Жёлтый кристалл" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -3741,7 +3741,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Blue Crystal" />
+					<sval type="string" val="Синий кристалл" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -3755,7 +3755,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Green Crystal" />
+					<sval type="string" val="Зелёный кристалл" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -3769,7 +3769,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="32" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Black Crystal" />
+					<sval type="string" val="Чёрный кристалл" />
 					<sval type="int" val="4" />
 					<sval type="int" val="-1" />
 					<sval type="int" val="4" />
@@ -4167,7 +4167,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="36" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" (can store " />
+					<sval type="string" val=" (можно хранить " />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -4175,7 +4175,7 @@
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="5" />
-					<sval type="string" val=" more)" />
+					<sval type="string" val=" и больше)" />
 					<sval type="int" val="15" />
 					<sval type="int" val="11" />
 					<sval type="int" val="7" />
@@ -4477,7 +4477,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Back" />
+					<sval type="string" val="Назад" />
 					<sval type="int" val="5" />
 					<sval type="string" val="cancel" />
 				</sval>
@@ -4490,7 +4490,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Docked Ships" />
+					<sval type="string" val="Пристыкованные корабли" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="1008" />
@@ -4718,7 +4718,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="No docked ships" />
+					<sval type="string" val="Нет пристыкованных кораблей" />
 				</sval>
 				<sval type="array" size="1">
 					<sval type="int" val="1168" />

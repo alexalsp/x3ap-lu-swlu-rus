@@ -69,7 +69,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'SaturnComplexHub'</text>
+			<text>'ГМК "Сатурн"'</text>
 		</line>
 		<line linenr="010" indent="" />
 		<line linenr="011" indent="">
@@ -612,7 +612,7 @@
 			<text> </text>
 			<text>fmt</text>
 			<text>=</text>
-			<text>'Saturn Complex Hub %s'</text>
+			<text>'ГМК "Сатурн" %s'</text>
 			<text>,</text>
 			<text> </text>
 			<var>$Size</var>
@@ -1440,7 +1440,7 @@
 					<sval type="int" val="3" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="SaturnComplexHub" />
+					<sval type="string" val="ГМК &quot;Сатурн&quot;" />
 					<sval type="int" val="1" />
 					<sval type="int" val="-1" />
 				</sval>
@@ -1814,7 +1814,7 @@
 					<sval type="int" val="149" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Saturn Complex Hub %s" />
+					<sval type="string" val="ГМК &quot;Сатурн&quot; %s" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="24" />
 					<sval type="int" val="0" />

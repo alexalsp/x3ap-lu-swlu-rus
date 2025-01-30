@@ -30,7 +30,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Build Options'</text>
+			<text>'Настройки строительства'</text>
 		</line>
 		<line linenr="002" indent="">
 			<var>$allValues</var>
@@ -94,7 +94,7 @@
 		<line linenr="008" indent="">
 			<text>append</text>
 			<text> </text>
-			<text>'Loop'</text>
+			<text>'Зациклить'</text>
 			<text> </text>
 			<text>to</text>
 			<text> </text>
@@ -185,7 +185,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Production'</text>
+			<text>'Производство'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -236,7 +236,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Build Options" />
+					<sval type="string" val="Настройки строительства" />
 				</sval>
 				<sval type="array" size="4">
 					<sval type="int" val="128" />
@@ -305,7 +305,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Loop" />
+					<sval type="string" val="Зациклить" />
 				</sval>
 				<sval type="array" size="6">
 					<sval type="int" val="156" />
@@ -362,7 +362,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Production" />
+					<sval type="string" val="Производство" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="3" />
 					<sval type="int" val="131074" />

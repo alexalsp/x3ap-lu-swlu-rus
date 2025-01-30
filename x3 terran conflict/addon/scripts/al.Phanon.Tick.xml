@@ -1710,7 +1710,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s Cr'</text>
+			<text>'%s кр.'</text>
 		</line>
 		<line linenr="187" indent="&#160;&#160;">
 			<comment>* ***Greeting messages! HQ Built!</comment>
@@ -2580,7 +2580,7 @@
 			<text> </text>
 			<text>wrapper</text>
 			<text>=</text>
-			<text>'%s Cr'</text>
+			<text>'%s кр.'</text>
 		</line>
 		<line linenr="280" indent="&#160;&#160;&#160;&#160;&#160;">
 			<text>write</text>
@@ -4121,7 +4121,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="26" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s Cr" />
+					<sval type="string" val="%s кр." />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -4657,7 +4657,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="36" />
 					<sval type="int" val="5" />
-					<sval type="string" val="%s Cr" />
+					<sval type="string" val="%s кр." />
 				</sval>
 				<sval type="array" size="17">
 					<sval type="int" val="405" />

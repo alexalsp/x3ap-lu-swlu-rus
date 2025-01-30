@@ -183,7 +183,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Hangar Bay'</text>
+			<text>'Корабельный ангар'</text>
 		</line>
 		<line linenr="039" indent="&#160;">
 			<var>$sections.main</var>
@@ -193,7 +193,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Production Bay'</text>
+			<text>'Отсек производства'</text>
 		</line>
 		<line linenr="040" indent="&#160;">
 			<var>$sections.main</var>
@@ -203,7 +203,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Recycling Bay'</text>
+			<text>'Отсек утилизации'</text>
 		</line>
 		<line linenr="041" indent="&#160;">
 			<var>$sections.main.hangar</var>
@@ -248,7 +248,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Laser'</text>
+			<text>'Лазер'</text>
 		</line>
 		<line linenr="046" indent="&#160;">
 			<var>$sections.production</var>
@@ -258,7 +258,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Missile'</text>
+			<text>'Ракета'</text>
 		</line>
 		<line linenr="047" indent="&#160;">
 			<var>$sections.production</var>
@@ -268,7 +268,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Shield'</text>
+			<text>'Щит'</text>
 		</line>
 		<line linenr="048" indent="&#160;">
 			<var>$sections.production</var>
@@ -278,7 +278,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Ship'</text>
+			<text>'Корабль'</text>
 		</line>
 		<line linenr="049" indent="&#160;">
 			<var>$sections.production.laser</var>
@@ -808,7 +808,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Mothership: '</text>
+			<text>'Материнский корабль: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -863,7 +863,7 @@
 			<text> </text>
 			<text>=</text>
 			<text> </text>
-			<text>'Available manpower: '</text>
+			<text>'Наличие рабочей силы: '</text>
 			<text> </text>
 			<text>+</text>
 			<text> </text>
@@ -914,7 +914,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Section'</text>
+			<text>'Раздел'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -962,7 +962,7 @@
 			<text> </text>
 			<text>title</text>
 			<text>=</text>
-			<text>'Section'</text>
+			<text>'Раздел'</text>
 		</line>
 		<line linenr="133" indent="">
 			<text>do</text>
@@ -992,7 +992,7 @@
 			<text> </text>
 			<text>text</text>
 			<text>=</text>
-			<text>'Production Bay'</text>
+			<text>'Отсек производства'</text>
 			<text>,</text>
 			<text> </text>
 			<text>value</text>
@@ -1569,7 +1569,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Hangar Bay" />
+					<sval type="string" val="Корабельный ангар" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -1578,7 +1578,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Production Bay" />
+					<sval type="string" val="Отсек производства" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -1587,7 +1587,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Recycling Bay" />
+					<sval type="string" val="Отсек утилизации" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -1629,7 +1629,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Laser" />
+					<sval type="string" val="Лазер" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -1638,7 +1638,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="1" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Missile" />
+					<sval type="string" val="Ракета" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -1647,7 +1647,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="2" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Shield" />
+					<sval type="string" val="Щит" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="130" />
@@ -1656,7 +1656,7 @@
 					<sval type="int" val="4" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Ship" />
+					<sval type="string" val="Корабль" />
 				</sval>
 				<sval type="array" size="7">
 					<sval type="int" val="104" />
@@ -2054,7 +2054,7 @@
 					<sval type="int" val="26" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Mothership: " />
+					<sval type="string" val="Материнский корабль: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="10" />
 					<sval type="int" val="15" />
@@ -2091,7 +2091,7 @@
 					<sval type="int" val="28" />
 					<sval type="int" val="3" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Available manpower: " />
+					<sval type="string" val="Наличие рабочей силы: " />
 					<sval type="int" val="131074" />
 					<sval type="int" val="27" />
 					<sval type="int" val="15" />
@@ -2120,7 +2120,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Section" />
+					<sval type="string" val="Раздел" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="11" />
 					<sval type="int" val="131074" />
@@ -2148,7 +2148,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Section" />
+					<sval type="string" val="Раздел" />
 				</sval>
 				<sval type="array" size="13">
 					<sval type="int" val="104" />
@@ -2170,7 +2170,7 @@
 					<sval type="int" val="131074" />
 					<sval type="int" val="0" />
 					<sval type="int" val="5" />
-					<sval type="string" val="Production Bay" />
+					<sval type="string" val="Отсек производства" />
 					<sval type="int" val="131074" />
 					<sval type="int" val="15" />
 					<sval type="int" val="131074" />
